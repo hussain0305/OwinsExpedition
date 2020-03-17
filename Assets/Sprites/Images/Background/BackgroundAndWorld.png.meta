@@ -1,0 +1,1390 @@
+fileFormatVersion: 2
+guid: bcbc49f8b98e8e14c84af42effd88a78
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BRHirez
+    21300002: BRTreesHirez
+    21300004: UnimportantBackground
+    21300006: DirtPath_2
+    21300008: DirtPath_1
+    21300010: WallBig
+    21300012: DirtPath_3
+    21300014: DirtPath_4
+    21300016: Log
+    21300018: Twig
+    21300020: Bush_2
+    21300022: WallSmall
+    21300024: Bush_1
+    21300026: Boulder
+    21300028: Rock
+    21300030: BigGrass_1
+    21300032: BigGrass_2
+    21300034: Stone
+    21300036: DirtPatch_3
+    21300038: DirtPatch_2
+    21300040: DirtPatch_1
+    21300042: PebbleBig
+    21300044: SmallGrass_2
+    21300046: PebbleMedium
+    21300048: SmallGrass_1
+    21300050: SmalLGrass_3
+    21300052: PebbleSmall
+    21300054: BackgroundAssets_13
+    21300056: IcicleBase
+    21300058: Pebble_Big
+    21300060: Pebble_Medium
+    21300062: SmallGrass_3
+    21300064: Pebble_Small
+    21300066: BBR(6)
+    21300068: BBG(6)
+    21300070: BBR(5)
+    21300072: BBG(5)
+    21300074: BBR(4)
+    21300076: BBG(4)
+    21300078: BBR(7)
+    21300080: BBG(7)
+    21300082: BBR(3)
+    21300084: BBG(3)
+    21300086: BBR(2)
+    21300088: BBG(2)
+    21300090: NewHighligted_Crossbow
+    21300092: Box1Gun
+    21300094: Box1Grenade
+    21300096: Box1
+    21300098: Box1_Mystery
+    21300100: Box1_Mystery_red
+    21300102: Box1Crossbow2
+    21300104: Box1Sword
+    21300106: Box1Bomb
+    21300108: Box1Chain
+    21300110: Box1Crossbow1
+    21300112: Box1Sword2
+    21300114: Box1_red
+    21300116: NewHighligted_SuperSword
+    21300118: NewHighligted_Sword
+    21300120: BBG(1)
+    21300122: BBR(1)
+    21300124: CorrectLog
+    21300126: NewHighligted_PoisonBomb
+    21300128: NewHighligted_Rifle
+    21300130: NewHighligted_Fire
+    21300132: NewHighligted_Shotgun
+    21300134: slice01_01 (5)
+    21300136: Shadow
+    21300138: RedExplosion_5
+    21300140: GreenExplosion_5
+    21300142: GreenExplosion_4
+    21300144: RedExplosion_4
+    21300146: RedExplosion_3
+    21300148: GreenExplosion_3
+    21300150: GreenExplosion_2
+    21300152: RedExplosion_2
+    21300154: Pickup_GreenMystery
+    21300156: Pickup_Sword
+    21300158: Pickup_General
+    21300160: Pickup_SuperSword
+    21300162: Pickup_Crossbow
+    21300164: Pickup_Shotgun
+    21300166: Pickup_Rifle
+    21300168: Pickup_PoisonBomb
+    21300170: Pickup_RedMystery
+    21300172: Pickup_RegGeneric
+    21300174: RedExplosion_1
+    21300176: GreenExplosion_1
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BRHirez
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 828
+        height: 1473
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec569ddfe33bba4cbfb03de14076635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRTreesHirez
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1
+        width: 828
+        height: 1473
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99510d2d83ab9414b9225e121f01e9f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtPath_2
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1
+        width: 270
+        height: 814
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ee789a88f51a246a2d8ef9415f68eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtPath_1
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1
+        width: 273
+        height: 802
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ec3afacc279804680075fea6d6f2c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallBig
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1476
+        width: 771
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3541f8d300f61fb459888300d179de2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnimportantBackground
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 817
+        width: 382
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11660b891efc6fb4e8695f004e716cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcicleBase
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1
+        width: 673
+        height: 431
+      alignment: 9
+      pivot: {x: 0.4806835, y: 0.44199535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68600daed3e02884fa1835698740ac7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHighligted_Crossbow
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 805
+        width: 579
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca3d3b518e54348af91a6547e1dda9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHighligted_SuperSword
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1476
+        width: 369
+        height: 539
+      alignment: 9
+      pivot: {x: 0.5203252, y: 0.49443415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecc421f9af16ba4d8c140440c0ef8b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHighligted_Sword
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1
+        width: 455
+        height: 536
+      alignment: 9
+      pivot: {x: 0.4868132, y: 0.5130597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad257c6bfbae119489d3d3339e2d8e60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtPath_3
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1166
+        width: 224
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90770665c576f9b48b776dc23d8c92bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtPath_4
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1476
+        width: 230
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1a49d7dc407c408ea70bec7a025d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorrectLog
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1707
+        width: 514
+        height: 238
+      alignment: 9
+      pivot: {x: 0.50875485, y: 0.48739496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030686ce1ac75c7408854a2aac91b9b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHighligted_PoisonBomb
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 539
+        width: 400
+        height: 510
+      alignment: 9
+      pivot: {x: 0.47375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ee58e92328ba4589c9b8ff4f3c5bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHighligted_Rifle
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 1
+        width: 381
+        height: 505
+      alignment: 9
+      pivot: {x: 0.5577428, y: 0.4990099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acbf8d9ab11d844594cbebc55023d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHighligted_Fire
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1166
+        width: 483
+        height: 492
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e9d2c22000fc74294fd5635fb46a54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewHighligted_Shotgun
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1499
+        width: 479
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29119ce9e8d761049926936118da27d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Log
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 434
+        width: 416
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffea6f78c4b15243a17b64b873d7e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twig
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 539
+        width: 392
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28eacd3286e4bb44ad748da8570eac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_2
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 1
+        width: 361
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c3c616a3b565f4abf92d72f8de1ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1051
+        width: 353
+        height: 314
+      alignment: 9
+      pivot: {x: 0.49858356, y: 0.50318474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f459998fa41ed94b9cb801475be6110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1660
+        width: 353
+        height: 314
+      alignment: 9
+      pivot: {x: 0.49858356, y: 0.50318474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d607f30cc21c2b045b810114e40f6d38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 508
+        width: 345
+        height: 307
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.495114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0889291ec836d1d43962eaa305a8f4b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1367
+        width: 345
+        height: 307
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.495114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c76c1818d4864ba6f9f4db7333656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallSmall
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1699
+        width: 325
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4860563564393d4fa47417a4530d4f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 165
+        width: 313
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963fa75a3a1454849bd34371b1fc716f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 710
+        width: 313
+        height: 256
+      alignment: 9
+      pivot: {x: 0.52715653, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a7b826186449446a5f45349e4c2ca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_1
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 628
+        width: 294
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cc1d4c9a4390b4fa6e37612de14942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boulder
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1676
+        width: 278
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9958ab165043ad947819c0ea4f6737f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1367
+        width: 259
+        height: 196
+      alignment: 9
+      pivot: {x: 0.52509654, y: 0.4489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcca9ac0ace5ce845aee601a3e6b0200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1834
+        width: 259
+        height: 196
+      alignment: 9
+      pivot: {x: 0.52509654, y: 0.4489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6670535a5ceb7054ca3e1103f595aae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1707
+        width: 214
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e89a58cafc0e2d41aecaa312811a647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_GreenMystery
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 423
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a515c04131d7347b82a49934bcb43f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Sword
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1676
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc4e0e9fb4b64243a826aa8fd28b414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_General
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 817
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686c531976861ff49bf1bc269efd4acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_SuperSword
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1834
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fae88ca29e1ef4c95cd5822b554416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Crossbow
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 621
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6544175abfcad4f87c7433396414fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Shotgun
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1565
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3a7f2b443db844aae30c78379ea67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Rifle
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1015
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845f128deba530b4e95ae49fd1f0416a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_PoisonBomb
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 968
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ac15d38e5d1344b90c2e7f543738ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_RedMystery
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 1565
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d692238ada94445971bc02a3cbf93a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_RegGeneric
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 819
+        width: 212
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb8b6661d3f844b965fc445623ea34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigGrass_1
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 1166
+        width: 203
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77041644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21c3b621c6e0774fac044f3618cf4e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigGrass_2
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1763
+        width: 200
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.79107666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346c6b51e1e0a0e47a8a426082ba30dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1499
+        width: 170
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.49473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418be40e449bf8340a4af83f021c6aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1213
+        width: 170
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.49473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd8a1e42d61e0b47b8e734bfcb03833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1947
+        width: 186
+        height: 95
+      alignment: 9
+      pivot: {x: 0.50000006, y: 1.0829873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9042a2f5db940c74c88dcef3b3a4c73a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtPatch_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1876
+        width: 183
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e05865ff173946851148308b6c892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtPatch_2
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 1213
+        width: 144
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e870436cce58ad4499823ade3f0bc6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice01_01 (5)
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 819
+        width: 135
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1872f368fc1c82043ad5e21a02400213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtPatch_1
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 434
+        width: 89
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba5ffb3a31229f47b4a40a0927c36f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pebble_Big
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1051
+        width: 88
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47263682, y: 1.6026251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e73dfa268356341949a34064f71aba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1699
+        width: 77
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5520ebbb046454bb301cb9d7437104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGrass_2
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 628
+        width: 65
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253da4c037802d34195f8ee18c63530c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pebble_Medium
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2000
+        width: 63
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 1.9906588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ede7f94678469408d8a269afe7228c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGrass_1
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 165
+        width: 48
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45784db150e0224193fb549eaf87767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGrass_3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1707
+        width: 31
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab755b3eeb3a1b478657e5857039fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pebble_Small
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 508
+        width: 42
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fb09bc0d2043041bd891b431861155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundAssets_13
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 805
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bf74e775f6af247bd8953470bd027c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b5e9857d081bac243b8d521664e32697
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

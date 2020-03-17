@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 0490f3e462dbe1c4ea223e81c7feeded
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RabbitAttack_2
+    21300002: RabbitAttack_8
+    21300004: RabbitAttack_1
+    21300006: RabbitAttack_0
+    21300008: RabbitAttack_4
+    21300010: RabbitAttack_3
+    21300012: RabbitAttack_5
+    21300014: RabbitAttack_7
+    21300016: RabbitRight_2
+    21300018: RabbitRight_3
+    21300020: RabbitAttack_6
+    21300022: RabbitRight_4
+    21300024: RabbitRight_0
+    21300026: RabbitRight_1
+    21300028: RabbitRight_5
+    21300030: RabbitLeft_3
+    21300032: RabbitLeft_2
+    21300034: RabbitLeft_4
+    21300036: RabbitWalk_2
+    21300038: RabbitWalk_7
+    21300040: RabbitLeft_0
+    21300042: RabbitWalk_8
+    21300044: RabbitWalk_3
+    21300046: RabbitWalk_6
+    21300048: RabbitWalk_1
+    21300050: RabbitWalk_0
+    21300052: RabbitWalk_5
+    21300054: RabbitWalk_9
+    21300056: RabbitWalk_4
+    21300058: RabbitLeft_1
+    21300060: RabbitLeft_5
+    21300062: BeeSpit_7
+    21300064: BeeSludge_16
+    21300066: BeeSludge_17
+    21300068: BeeSludge_15
+    21300070: BeeSludge_14
+    21300072: BeeSludge_10
+    21300074: BeeSludge_6
+    21300076: BeeSludge_13
+    21300078: BeeSludge_9
+    21300080: BeeSludge_8
+    21300082: BeeSludge_7
+    21300084: BeeSludge_12
+    21300086: BeeSludge_11
+    21300088: BeeSpit_6
+    21300090: BeeSludge_5
+    21300092: BeeSludge_18
+    21300094: BeeSludge_4
+    21300096: BeeSludge_3
+    21300098: BeeSpit_5
+    21300100: BeeSpit_4
+    21300102: BeeSpit_3
+    21300104: BeeSludge_2
+    21300106: BeeSpit_2
+    21300108: BeeSpit_1
+    21300110: BeeSpit_0
+    21300112: BeeSludge_1
+    21300114: BeeSludge_0
+    21300116: Bee_12
+    21300118: Bee_9
+    21300120: Bee_10
+    21300122: Bee_11
+    21300124: Bee_8
+    21300126: Bee_6
+    21300128: Bee_2
+    21300130: Bee_7
+    21300132: Bee_0
+    21300134: Bee_5
+    21300136: Bee_1
+    21300138: Bee_4
+    21300140: Bee_3
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RabbitAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 257
+        height: 431
+      alignment: 9
+      pivot: {x: 0.4688716, y: 0.5011601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add547546eb8ef146b15c706fa3ddb21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitAttack_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 309
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4449838, y: 0.51306415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4765a824b2c7c4e87acb23961df135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 434
+        width: 267
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5486891, y: 0.5391924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c1e1103619234469d08c3c892fa10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitAttack_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1
+        width: 339
+        height: 413
+      alignment: 9
+      pivot: {x: 0.49705014, y: 0.4866828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6598a9fc3c2964080a6e05e5ff14c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitAttack_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 424
+        width: 293
+        height: 413
+      alignment: 9
+      pivot: {x: 0.48634812, y: 0.52300245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc705b963846d48b14b93a58d02c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 857
+        width: 226
+        height: 408
+      alignment: 9
+      pivot: {x: 0.48893806, y: 0.48284313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59bbe9c889388142b86c65adc7e4dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitAttack_5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1
+        width: 332
+        height: 402
+      alignment: 9
+      pivot: {x: 0.49548194, y: 0.5273632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb045184bd0fcd478e8b81bf3218a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitAttack_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 416
+        width: 311
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6083551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510de5e82cbf2944590dfb027885cdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitRight_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 839
+        width: 279
+        height: 379
+      alignment: 9
+      pivot: {x: 0.51433694, y: 0.46174142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07719628c6a3f9438bba5702b469c68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitRight_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1267
+        width: 288
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5364583, y: 0.48138297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf834e8c1dbffe4bb5cb45e568c22ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1
+        width: 282
+        height: 373
+      alignment: 9
+      pivot: {x: 0.49822694, y: 0.6219839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25587e6c5de8f14cb4887985e901a54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitRight_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 405
+        width: 265
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5226415, y: 0.51800555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48adb214b9455e64c8ce692838e95d2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 801
+        width: 354
+        height: 202
+      alignment: 9
+      pivot: {x: 0.47881356, y: 0.3910891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97e04659729cfa458f3a4155ef4e49e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitRight_0
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1220
+        width: 246
+        height: 348
+      alignment: 9
+      pivot: {x: 0.5142276, y: 0.52011496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4743f625e2004190120f58fde6a84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1645
+        width: 329
+        height: 204
+      alignment: 9
+      pivot: {x: 0.43009117, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e51baee65ea445acb1fe420173235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitRight_1
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1
+        width: 298
+        height: 329
+      alignment: 9
+      pivot: {x: 0.51510066, y: 0.5258359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58b845fcff8f14280a55063ee076e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_10
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 376
+        width: 327
+        height: 222
+      alignment: 9
+      pivot: {x: 0.46941897, y: 0.45495495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27360a3354c06e6498d6d489cf65377c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1005
+        width: 327
+        height: 208
+      alignment: 9
+      pivot: {x: 0.46330276, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c98b7b6f56f2f49abaa33da6127ec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 768
+        width: 325
+        height: 206
+      alignment: 9
+      pivot: {x: 0.45076925, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5036a94be588c4ab77bed7f1ef3491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1220
+        width: 321
+        height: 239
+      alignment: 9
+      pivot: {x: 0.58411217, y: 0.46025103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84be96960bde6c4aa3ffcfc74a61f81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitRight_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1570
+        width: 276
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5307971, y: 0.58125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9626cb48f8a1a104f82623ed5b185bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_2
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 332
+        width: 320
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5234375, y: 0.41142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a953b228ddb308d488f164ffd34dc269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitLeft_2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1005
+        width: 235
+        height: 319
+      alignment: 9
+      pivot: {x: 0.48510638, y: 0.46394983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b68eb8f4161f914e88a658dee44cfa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitLeft_3
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 600
+        width: 243
+        height: 319
+      alignment: 9
+      pivot: {x: 0.46502057, y: 0.47962382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3bf95c43d8f00408bbb20a2fe7d186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1851
+        width: 315
+        height: 194
+      alignment: 9
+      pivot: {x: 0.42698413, y: 0.44329897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01155e1cb0e8fc4099c481bd87b101f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_0
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1461
+        width: 308
+        height: 192
+      alignment: 9
+      pivot: {x: 0.46266234, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f1ad09bfabdc40865ae6d7e520051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitLeft_4
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 509
+        width: 222
+        height: 303
+      alignment: 9
+      pivot: {x: 0.4774775, y: 0.5181518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491a38d1bf466a1419e38846e423711f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_5
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 976
+        width: 300
+        height: 190
+      alignment: 9
+      pivot: {x: 0.375, y: 0.49473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dffdb27c2c75c14d8e747219e07989c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_1
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1326
+        width: 297
+        height: 168
+      alignment: 9
+      pivot: {x: 0.543771, y: 0.39880952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1518fa2a65ef24e4090d3e93e8882b19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_7
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1
+        width: 175
+        height: 295
+      alignment: 9
+      pivot: {x: 0.42571428, y: 0.48474577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3404cbd879aa1458d83cb06e77d58e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1655
+        width: 175
+        height: 295
+      alignment: 9
+      pivot: {x: 0.48285714, y: 0.48135594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725016257e10dbb40a6194cb83f266f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitLeft_0
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 814
+        width: 207
+        height: 293
+      alignment: 9
+      pivot: {x: 0.4879227, y: 0.51877135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e9cdb46983fd418d098a043192e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_8
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 509
+        width: 169
+        height: 290
+      alignment: 9
+      pivot: {x: 0.45266274, y: 0.5103448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d85a73c0988834c8248bbabb97b3ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_3
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1168
+        width: 169
+        height: 290
+      alignment: 9
+      pivot: {x: 0.45857987, y: 0.5137931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643ef71f6eb42544898b74129c6dcbb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_6
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1496
+        width: 175
+        height: 289
+      alignment: 9
+      pivot: {x: 0.42571428, y: 0.4463668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c43551b0fe0e34291977e81079d1ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_1
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1109
+        width: 174
+        height: 289
+      alignment: 9
+      pivot: {x: 0.47988507, y: 0.45328718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a5fcfe86f04c043a1f1ed38b55a2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_4
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 814
+        width: 288
+        height: 177
+      alignment: 9
+      pivot: {x: 0.4045139, y: 0.5706215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e90f2972f8944cb553d8fcb190a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_0
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1460
+        width: 180
+        height: 281
+      alignment: 9
+      pivot: {x: 0.46388888, y: 0.49466193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da42aff08ae9be4992b0cd710e2da08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1109
+        width: 181
+        height: 281
+      alignment: 9
+      pivot: {x: 0.46685082, y: 0.49466193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94fd7dca3abd8d488268912b9219a14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1743
+        width: 220
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5113636, y: 0.50537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47963baac3580e24684faf6a84f73519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitWalk_9
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1400
+        width: 219
+        height: 279
+      alignment: 9
+      pivot: {x: 0.42694065, y: 0.50896055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967b24d927d95124b8fcc42cbbf561d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitLeft_1
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 993
+        width: 251
+        height: 278
+      alignment: 9
+      pivot: {x: 0.4860558, y: 0.52517986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c2a31b434c1d4448cc29fff3170961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_3
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1787
+        width: 277
+        height: 160
+      alignment: 9
+      pivot: {x: 0.48194945, y: 0.55625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd134e3fc0c218b45afd05a0594a120f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitLeft_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1743
+        width: 232
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4698276, y: 0.58148146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705b626c039fe042b7d6cc4437dfbd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSpit_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1892
+        width: 191
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4921466, y: 1.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b035c64be695a8f4eb6602c268b7adf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1952
+        width: 181
+        height: 76
+      alignment: 9
+      pivot: {x: 0.49447513, y: 0.95394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c835f25596be35241823b95e61b0cc0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_16
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1392
+        width: 181
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49447513, y: 1.0507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55344f3e4abc101479e9bc859d7ddd6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_15
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1949
+        width: 176
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49147728, y: 0.96575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e00e5d0c7eaf19429a502cc5a466de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_14
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1681
+        width: 174
+        height: 62
+      alignment: 9
+      pivot: {x: 0.49137932, y: 1.1209677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f446497908979e845998a62772875013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_10
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1273
+        width: 170
+        height: 61
+      alignment: 9
+      pivot: {x: 0.49117646, y: 1.1229508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2fd50ce7816684aabcc9d34d5e6e30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1952
+        width: 170
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49117646, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0101b61b76cbc6143bb1d943c6dced18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_9
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1463
+        width: 169
+        height: 72
+      alignment: 9
+      pivot: {x: 0.49408284, y: 0.9513889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab4d5efd7bef04cbee81a30a712b59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1745
+        width: 169
+        height: 61
+      alignment: 9
+      pivot: {x: 0.48816568, y: 1.1229508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eae79cad27a93489592e067d763e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_12
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1336
+        width: 169
+        height: 61
+      alignment: 9
+      pivot: {x: 0.49408284, y: 1.1229508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b40a0a285979478c938e171743da5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_13
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1463
+        width: 169
+        height: 61
+      alignment: 9
+      pivot: {x: 0.49408284, y: 1.1229508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba77c31ca0d2ab94ca10b9218b8c5d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_7
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1537
+        width: 169
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48816568, y: 1.0546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0af6167d9ca1544a47dbcd9f8cb69c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_8
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1745
+        width: 169
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49408284, y: 1.0223881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7433e2abaa09349915fcb82505cd61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSpit_6
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1808
+        width: 166
+        height: 100
+      alignment: 9
+      pivot: {x: 0.45783132, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de55e6e2026c2409cd42917db54d0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_18
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 921
+        width: 164
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4847561, y: 0.7641509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4449b4bd3984cc44ebe0f3759d99bac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_5
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1399
+        width: 164
+        height: 61
+      alignment: 9
+      pivot: {x: 0.49085367, y: 1.1065574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad7c900c156aa543af5a3b2ae442e47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_4
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1603
+        width: 154
+        height: 66
+      alignment: 9
+      pivot: {x: 0.48376623, y: 1.0227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a52ed9c3639fb042a9cc91e4cf8babc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSpit_5
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 298
+        width: 142
+        height: 99
+      alignment: 9
+      pivot: {x: 0.46478873, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c4f01d312ca947aa30536466473cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_3
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1526
+        width: 142
+        height: 68
+      alignment: 9
+      pivot: {x: 0.46126762, y: 0.9485294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefe9d2d3683a4f4491658610a221aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSpit_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1496
+        width: 113
+        height: 75
+      alignment: 9
+      pivot: {x: 0.43362832, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1943cc9578ab23d4fa69a85cf2324bd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSpit_3
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 600
+        width: 75
+        height: 95
+      alignment: 9
+      pivot: {x: 0.26666668, y: 0.17894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71eec0f54d9ed94780b0a87ad050e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_2
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1168
+        width: 78
+        height: 56
+      alignment: 9
+      pivot: {x: 0.42948717, y: 0.83035713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06012ac21c88b0d4189c716c92ecf232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSpit_2
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 993
+        width: 73
+        height: 76
+      alignment: 9
+      pivot: {x: 0.34246576, y: 0.118421055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9339d1bd90e9a9747abb245f69a8084a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSpit_1
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 405
+        width: 63
+        height: 61
+      alignment: 9
+      pivot: {x: 0.31746033, y: -0.114754096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863458d0f4a56d04cb1582f17d3ef1fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSpit_0
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 600
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.26666668, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd6a60745300bb4bac319d4a1bea90a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 857
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a726da351b5f4244bcd4232c7dee76e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeSludge_0
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 416
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04c14a70b623784896f99fe3f5fb95f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fe8f065c3eb2a404794058bd69a0b2d0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

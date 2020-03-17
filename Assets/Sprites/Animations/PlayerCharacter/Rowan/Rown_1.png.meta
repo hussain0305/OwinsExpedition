@@ -1,0 +1,1843 @@
+fileFormatVersion: 2
+guid: 36e52b1985310d5469f31326dfdfc987
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RowanAttack_5_6
+    21300002: RowanAttack_3_4
+    21300004: RowanAttack_3_3
+    21300006: RowanAttack_5_5
+    21300008: RowanAttack_3_5
+    21300010: RowanAttack_2_0
+    21300012: RowanAttack_2_1
+    21300014: RowanAttack_5_4
+    21300016: RowanAttack_3_6
+    21300018: RowanAttack_4_7
+    21300020: RowanAttack_4_5
+    21300022: RowanAttack_5_0
+    21300024: RowanAttack_4_6
+    21300026: RowanAttack_2_5
+    21300028: RowanAttack_1_3
+    21300030: RowanAttack_2_2
+    21300032: RowanAttack_5_1
+    21300034: RowanAttack_3_2
+    21300036: RowanAttack_5_2
+    21300038: RowanAttack_3_0
+    21300040: RowanAttack_1_4
+    21300042: RowanAttack_3_1
+    21300044: RowanAttack_5_3
+    21300046: RowanAttack_2_3
+    21300048: RowanAttack_1_5
+    21300050: RowanAttack_1_6
+    21300052: RowanAttack_4_2
+    21300054: RowanAttack_1_2
+    21300056: RowanAttack_2_4
+    21300058: RowanAttack_1_0
+    21300060: RowanAttack_4_1
+    21300062: RowanAttack_4_0
+    21300064: RowanAttack_4_9
+    21300066: RowanAttack_4_4
+    21300068: RowanAttack_1_1
+    21300070: RowanAttack_4_3
+    21300072: RowanAttack_4_8
+    21300074: RowanRight_2
+    21300076: RowanLeft_2
+    21300078: RowanLeft_3
+    21300080: RowanRight_3
+    21300082: RowanLeft_5
+    21300084: RowanRight_5
+    21300086: RowanLeft_1
+    21300088: RowanLeft_4
+    21300090: RowanRight_1
+    21300092: RowanRight_4
+    21300094: RowanLeft_7
+    21300096: RowanRight_7
+    21300098: RowanLeft_6
+    21300100: RowanRight_6
+    21300102: RowanLeft_0
+    21300104: RowanRight_8
+    21300106: RowanRight_0
+    21300108: RowanLeft_8
+    21300110: RowanThrow_5
+    21300112: RowanThrow_0
+    21300114: RowanThrow_1
+    21300116: RowanThrow_2
+    21300118: RowanThrow_6
+    21300120: RowanWalk_9
+    21300122: RowanLoadedRun_9
+    21300124: RowanLoadedRun_4
+    21300126: RowanWalk_4
+    21300128: RowanThrow_4
+    21300130: RowanLoadedRun_5
+    21300132: RowanWalk_5
+    21300134: RowanWalk_2
+    21300136: RowanLoadedRun_2
+    21300138: RowanWalk_7
+    21300140: RowanWalk_8
+    21300142: RowanLoadedRun_8
+    21300144: RowanLoadedRun_7
+    21300146: RowanLoadedRun_3
+    21300148: RowanWalk_3
+    21300150: RowanWalk_1
+    21300152: RowanWalk_0
+    21300154: RowanLoadedRun_1
+    21300156: RowanLoadedRun_0
+    21300158: RowanWalk_6
+    21300160: RowanLoadedRun_6
+    21300162: RowanThrow_3
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RowanAttack_5_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 386
+        height: 446
+      alignment: 9
+      pivot: {x: 0.49222797, y: 0.49775785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c0044a0f42d42449c3657e73b53176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 298
+        height: 424
+      alignment: 9
+      pivot: {x: 0.66442955, y: 0.5259434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3896505c2052f024c86887dcfb9772dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 310
+        height: 420
+      alignment: 9
+      pivot: {x: 0.3516129, y: 0.5309524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a587226cb29a51843bc410c8598b0421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_3_4
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1
+        width: 250
+        height: 419
+      alignment: 9
+      pivot: {x: 0.528, y: 0.522673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadecb18a728a6d48bb86044f81150e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 427
+        width: 327
+        height: 411
+      alignment: 9
+      pivot: {x: 0.6085627, y: 0.45012164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56467fed543517c4c9b66f81fd8a0271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 871
+        width: 322
+        height: 411
+      alignment: 9
+      pivot: {x: 0.39751554, y: 0.45012164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec888e55e0e6b340a4dbe7261fb092f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_3_3
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1
+        width: 291
+        height: 407
+      alignment: 9
+      pivot: {x: 0.45704466, y: 0.5012285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c420529595e446ba2d26d1798e9cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_5_5
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 422
+        width: 357
+        height: 397
+      alignment: 9
+      pivot: {x: 0.5042017, y: 0.5214106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c891bde52e4f271459685171885fc5db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_3_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 840
+        width: 253
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.5493671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a32f7f11f28d694f98fdc96dc3c8413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1284
+        width: 294
+        height: 394
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.4568528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d018fc56c7e545ab6c2706d12f71a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_2_1
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1
+        width: 239
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5083682, y: 0.5589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18cbe6856da07a4d835cc6b43d4dae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_2_0
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 410
+        width: 232
+        height: 390
+      alignment: 9
+      pivot: {x: 0.46336207, y: 0.51794875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f545ab86594f9fa46b2052b2a6134198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_5
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 821
+        width: 295
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5118644, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38123621c0fcf9e4587b152680947cda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1237
+        width: 222
+        height: 377
+      alignment: 9
+      pivot: {x: 0.545045, y: 0.5596817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296d10a19f4a82d40a91152ecad7e6ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_4
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1
+        width: 300
+        height: 376
+      alignment: 9
+      pivot: {x: 0.57666665, y: 0.42021278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507c6f99768dec54d98caa621c31dd4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 393
+        width: 222
+        height: 375
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.56266665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db0e066f29918f478527f815e9d3668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_5_4
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 802
+        width: 352
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5198864, y: 0.5240642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2579b2a62d1320942b08ca45a21441d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1207
+        width: 300
+        height: 374
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.4224599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f239da03fb481ac45a6e22ab5088b1a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_3_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1616
+        width: 242
+        height: 369
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.5718157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f6d83b82bba64418c2857ea0b5ef45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_7
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1
+        width: 259
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4015444, y: 0.3901099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7ebd3aca63cf040beeea953f1e943d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_5
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 379
+        width: 276
+        height: 361
+      alignment: 9
+      pivot: {x: 0.44927537, y: 0.3739612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d461c7ee6faed40848cc17f03367a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1178
+        width: 231
+        height: 360
+      alignment: 9
+      pivot: {x: 0.6233766, y: 0.5472222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b7f11814e18514ca1cf31c74edc628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_5_0
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 770
+        width: 235
+        height: 359
+      alignment: 9
+      pivot: {x: 0.51914895, y: 0.643454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c716c93700b024e9b0aaaf958c2689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1583
+        width: 258
+        height: 357
+      alignment: 9
+      pivot: {x: 0.43410853, y: 0.55182076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e329451ce23b43a75ba6eb1a5bf6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1680
+        width: 274
+        height: 356
+      alignment: 9
+      pivot: {x: 0.41970804, y: 0.38764045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8492f7a1b167b6f47b64fcb50f41a799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_6
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1
+        width: 288
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5381944, y: 0.53107345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef4bd62252f61b459f3539bff52635d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_6
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 367
+        width: 288
+        height: 353
+      alignment: 9
+      pivot: {x: 0.46180555, y: 0.53257793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bed995f1d38f54e89934b30e9c9456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_2_5
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1540
+        width: 217
+        height: 351
+      alignment: 9
+      pivot: {x: 0.54147464, y: 0.56125355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3078d94d323ba148a91604ba08fb366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_1_3
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1178
+        width: 245
+        height: 347
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.5072046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e88fe44cad33a44884e77d10f786fd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_2_2
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 742
+        width: 240
+        height: 342
+      alignment: 9
+      pivot: {x: 0.45208332, y: 0.63450295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968feec264cbfc443a365f1adf83fa61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_0
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1
+        width: 230
+        height: 341
+      alignment: 9
+      pivot: {x: 0.6086956, y: 0.5601173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d890cd270ac6c5247b5f5e5936b90ea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_8
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 357
+        width: 201
+        height: 339
+      alignment: 9
+      pivot: {x: 0.43781096, y: 0.5663717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf081aa169ed5b8429918205cdd457d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanRight_0
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1540
+        width: 201
+        height: 339
+      alignment: 9
+      pivot: {x: 0.44278607, y: 0.56342185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1881485ef6381ec45824da34c7861090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_5_1
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1131
+        width: 216
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.65486723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9fb71c9fc85324dbb6812938f86c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_3_2
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 722
+        width: 305
+        height: 336
+      alignment: 9
+      pivot: {x: 0.53770494, y: 0.55654764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274ab9e0b47524d449f110464b498268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_5_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1
+        width: 247
+        height: 336
+      alignment: 9
+      pivot: {x: 0.46963564, y: 0.66071427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e39280a0a34c74fb91c8be14a38ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_3_0
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 344
+        width: 226
+        height: 336
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c29bf4b8d25a5f47983cc43cfcf9b8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_1_4
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1527
+        width: 224
+        height: 335
+      alignment: 9
+      pivot: {x: 0.47767857, y: 0.46865672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5e51ea0dd343844add4866db9e060d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_3_1
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1086
+        width: 281
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5124555, y: 0.55988026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cdee87db0f68c4bbce404d6208b991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_5_3
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 698
+        width: 287
+        height: 334
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.66167665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b246f79beb9f474694ac5b508f1b107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLeft_8
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1
+        width: 229
+        height: 332
+      alignment: 9
+      pivot: {x: 0.60262007, y: 0.55421686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175172855dae82e43b16977d626527c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_2_3
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 339
+        width: 213
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5140845, y: 0.6838906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839f33fe71ff30449a0eaf1cf337960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_1_5
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1472
+        width: 226
+        height: 325
+      alignment: 9
+      pivot: {x: 0.4380531, y: 0.47692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb2d884943823d4caaf986bf1ab66b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanThrow_5
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1060
+        width: 216
+        height: 318
+      alignment: 9
+      pivot: {x: 0.36574075, y: 0.5408805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abea57923d9dc61409099c5aa92724bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanThrow_0
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 682
+        width: 195
+        height: 313
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5335463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1338f2effe27a44ba74dda1a167af2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_1_6
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1034
+        width: 203
+        height: 312
+      alignment: 9
+      pivot: {x: 0.4729064, y: 0.49679488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939a3818219c06545bb8cf29ca0969bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanThrow_1
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 1
+        width: 189
+        height: 312
+      alignment: 9
+      pivot: {x: 0.6031746, y: 0.5352564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d2d0f7e689b64a96b6efc5ad1eb5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanThrow_2
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 335
+        width: 193
+        height: 310
+      alignment: 9
+      pivot: {x: 0.6373057, y: 0.5387097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcea280b82930d24bb458da9de82b1bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanThrow_6
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1422
+        width: 199
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4321608, y: 0.5225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c1d16c25f6a2847b48e1228a38bef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_9
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1380
+        width: 169
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5739645, y: 0.5032467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988ea0dfd7a6acb419eaf5c75c7a62fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_9
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 670
+        width: 187
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5187166, y: 0.5032467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c719f772e2ac1e54697e8ea84a9fecff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_4
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 997
+        width: 212
+        height: 306
+      alignment: 9
+      pivot: {x: 0.45754716, y: 0.49673203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81fa6dd216d4be4ba64d4a8e0a01edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_4
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1348
+        width: 170
+        height: 306
+      alignment: 9
+      pivot: {x: 0.57058823, y: 0.49673203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce54606a44991e44962a6af0e4c732e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanThrow_4
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 1
+        width: 225
+        height: 305
+      alignment: 9
+      pivot: {x: 0.39555556, y: 0.5967213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09184c98e88c95a4f870b6914bbdb559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_5
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 315
+        width: 202
+        height: 304
+      alignment: 9
+      pivot: {x: 0.46534654, y: 0.53289473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a400ea9675b0b854a945cbb6d0312f9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1734
+        width: 167
+        height: 304
+      alignment: 9
+      pivot: {x: 0.56287426, y: 0.53289473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ade22904a6b64a928d3ef2cbc81e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_1_2
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1690
+        width: 192
+        height: 303
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.6039604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc503767268ad4c4695df3a8370c3f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_2
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 647
+        width: 175
+        height: 303
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.6039604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaf831d43eac0a43bb6b3d72c2e367f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_2
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1305
+        width: 172
+        height: 302
+      alignment: 9
+      pivot: {x: 0.56395346, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959103ae45c09d45b4d09b3aa3ea7f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_2
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 980
+        width: 217
+        height: 302
+      alignment: 9
+      pivot: {x: 0.44700462, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496964511dbc70344b1bc58993fc6604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_7
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1656
+        width: 165
+        height: 300
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d975767c4a41f834b8d1395174620f8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_8
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 1
+        width: 167
+        height: 300
+      alignment: 9
+      pivot: {x: 0.56287426, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d38a70cc818d46a87690f55c2d717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_8
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 308
+        width: 197
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47715735, y: 0.49333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e12c8ac8890f1418815e092162375e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_7
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 621
+        width: 219
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41095892, y: 0.50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ae0030100a0c45a8e704eeeaaed81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_3
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 1609
+        width: 213
+        height: 296
+      alignment: 9
+      pivot: {x: 0.44131455, y: 0.49324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96afa9d439527f24db5726b0596d5c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_3
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 952
+        width: 168
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5595238, y: 0.49324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa8053c062ac0646b27c436637a636c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_2_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1284
+        width: 212
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5400943, y: 0.6689189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32303ca95721b41916296dbd23371f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_1
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1
+        width: 165
+        height: 293
+      alignment: 9
+      pivot: {x: 0.55151516, y: 0.5153584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1012a92bb88c442b3f11bce76512b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_0
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 303
+        width: 171
+        height: 293
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.5392491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4b0f266ac05b049beb02c9de22f550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_1
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 610
+        width: 204
+        height: 293
+      alignment: 9
+      pivot: {x: 0.44607842, y: 0.5153584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f99a7efa264e2f4f8568f716c9e0221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_0
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 923
+        width: 209
+        height: 293
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.5392491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2ea17a7c5239943a78a741fa74abed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanWalk_6
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1250
+        width: 171
+        height: 289
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.5363322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a12ae1684120c4dbdfefad3fa32cad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanLoadedRun_6
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1582
+        width: 224
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4419643, y: 0.5363322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b2c30275963c24ebd557b29ce3f28a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_1_0
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 1
+        width: 176
+        height: 286
+      alignment: 9
+      pivot: {x: 0.58522725, y: 0.5629371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce93877aac1cf94dabc53798e3e46bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanThrow_3
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 296
+        width: 240
+        height: 285
+      alignment: 9
+      pivot: {x: 0.475, y: 0.6210526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92108215c09111945a70dc192fdece42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_1
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 598
+        width: 172
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5739437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b29ec02b311d345a5dfbd487b2e0d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_0
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 905
+        width: 168
+        height: 284
+      alignment: 9
+      pivot: {x: 0.51785713, y: 0.5669014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e66a1a9c74cfa64fae05ead41155bee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_9
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1541
+        width: 204
+        height: 283
+      alignment: 9
+      pivot: {x: 0.46078432, y: 0.50530034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a6476218631344c87e2914bb5fbb62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_4
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 289
+        width: 187
+        height: 281
+      alignment: 9
+      pivot: {x: 0.61497325, y: 0.48754448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556cc69177e3cfa4f9a136803b3b6929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_1_1
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 583
+        width: 185
+        height: 280
+      alignment: 9
+      pivot: {x: 0.6054054, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4fc4ddeb38f34db45872d2192f46a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_3
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 884
+        width: 255
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5411765, y: 0.5183824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb9e3b570019434aa328e525b360f59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RowanAttack_4_8
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1191
+        width: 214
+        height: 262
+      alignment: 9
+      pivot: {x: 0.40654206, y: 0.53816795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6789ea906b29e48ac2d161e954a384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92110e74de26fc24aae8b3ab98fd9b59
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

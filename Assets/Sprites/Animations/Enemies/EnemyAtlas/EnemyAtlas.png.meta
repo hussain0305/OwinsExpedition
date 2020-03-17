@@ -1,0 +1,5927 @@
+fileFormatVersion: 2
+guid: 20aa3485f5a408747b23443634961036
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GhostMelee_5
+    21300002: IcykillAttack_5
+    21300004: GhostRanged_8
+    21300006: GhostMelee_6
+    21300008: GhostMelee_8
+    21300010: GoblinIdle_6
+    21300012: IcykillAttack_2
+    21300014: GoblinIdle_7
+    21300016: GoblinIdle_8
+    21300018: GhostRanged_7
+    21300020: IcykillAttack_1
+    21300022: IcykillAttack_8
+    21300024: GoblinIdle_5
+    21300026: GoblinIdle_9
+    21300028: GhostMelee_9
+    21300030: IcykillAttack_0
+    21300032: GoblinIdle_10
+    21300034: GoblinIdle_0
+    21300036: GoblinIdle_15
+    21300038: GoblinIdle_11
+    21300040: GhostRanged_9
+    21300042: GoblinIdle_12
+    21300044: GoblinIdle_14
+    21300046: GoblinIdle_13
+    21300048: IcykillAttack_4
+    21300050: GhostMelee_7
+    21300052: GoblinIdle_4
+    21300054: IcykillAttack_6
+    21300056: GoblinIdle_1
+    21300058: IcykillAttack_3
+    21300060: GoblinIdle_2
+    21300062: GhostRanged_6
+    21300064: IcykillAttack_9
+    21300066: GoblinIdle_3
+    21300068: IcykillIdle_0
+    21300070: IcykillIdle_1
+    21300072: IcykillIdle_11
+    21300074: IcykillIdle_10
+    21300076: IcykillIdle_9
+    21300078: IcykillIdle_8
+    21300080: IcykillIdle_2
+    21300082: IcykillIdle_7
+    21300084: IcykillIdle_4
+    21300086: IcykillIdle_6
+    21300088: IcykillIdle_5
+    21300090: IcykillIdle_3
+    21300092: IcykillAttack_7
+    21300094: GhostRanged_4
+    21300096: GhostRanged_3
+    21300098: GhostRanged_2
+    21300100: GhostRanged_1
+    21300102: FiersomeAttack_8
+    21300104: FiersomeAttack_5
+    21300106: FiersomeAttack_7
+    21300108: GhostRanged_10
+    21300110: GhostRanged_0
+    21300112: GhostRanged_5
+    21300114: FiersomeAttack_9
+    21300116: GoblinAttack_10
+    21300118: GoblinAttack_9
+    21300120: GoblinAttack_8
+    21300122: GhostMelee_10
+    21300124: FiersomeAttack_10
+    21300126: GoblinAttack_7
+    21300128: GhostMelee_2
+    21300130: GhostMelee_1
+    21300132: FiersomeAttack_11
+    21300134: FiersomeAttack_0
+    21300136: GhostMelee_3
+    21300138: GhostMelee_11
+    21300140: GoblinAttack_0
+    21300142: GhostMelee_4
+    21300144: IBall_6
+    21300146: GoblinAttack_1
+    21300148: GoblinAttack_6
+    21300150: GhostMelee_0
+    21300152: IcykillProjectile_0
+    21300154: FiersomeAttack_1
+    21300156: FiersomeAttack_6
+    21300158: IBall_22
+    21300160: FiersomeAttack_4
+    21300162: IBall_21
+    21300164: GoblinAttack_2
+    21300166: IcykillProjectile_2
+    21300168: GoblinAttack_3
+    21300170: Icicle_3
+    21300172: IcykillProjectile_4
+    21300174: GoblinAttack_4
+    21300176: Icicle_4
+    21300178: GoblinAttack_5
+    21300180: IBall_18
+    21300182: IBall_5
+    21300184: IBall_11
+    21300186: IBall_13
+    21300188: IcykillProjectile_1
+    21300190: IBall_12
+    21300192: IBall_17
+    21300194: FiersomeAttack_2
+    21300196: IBall_23
+    21300198: IBall_9
+    21300200: IBall_14
+    21300202: IcykillProjectile_3
+    21300204: Icicle_11
+    21300206: Icicle_10
+    21300208: Icicle_9
+    21300210: Icicle_8
+    21300212: Icicle_14
+    21300214: Icicle_15
+    21300216: Icicle_5
+    21300218: Icicle_6
+    21300220: Icicle_13
+    21300222: Icicle_7
+    21300224: Icicle_12
+    21300226: Icicle_16
+    21300228: FiersomeAttack_3
+    21300230: IBall_10
+    21300232: IBall_20
+    21300234: GhostFloating_6
+    21300236: GhostFloating_0
+    21300238: GhostFloating_7
+    21300240: GhostFloating_4
+    21300242: GhostFloating_5
+    21300244: GhostFloating_3
+    21300246: IBall_4
+    21300248: GhostFloating_2
+    21300250: IBall_16
+    21300252: GhostFloating_1
+    21300254: IBall_15
+    21300256: FiersomeIdle_11
+    21300258: IBall_7
+    21300260: IBall_3
+    21300262: FiersomeIdle_0
+    21300264: FiersomeIdle_1
+    21300266: FiersomeIdle_3
+    21300268: FiersomeIdle_10
+    21300270: FiersomeIdle_2
+    21300272: FiersomeIdle_9
+    21300274: IBall_0
+    21300276: FiersomeIdle_4
+    21300278: FiersomeIdle_8
+    21300280: FiersomeIdle_7
+    21300282: FiersomeIdle_6
+    21300284: FiersomeIdle_5
+    21300286: IBall_19
+    21300288: Icicle_2
+    21300290: IBall_2
+    21300292: IBall_1
+    21300294: IBall_8
+    21300296: FiersomeFireball_3
+    21300298: FiersomeFireball_1
+    21300300: FiersomeFireball_2
+    21300302: FiersomeFireball_0
+    21300304: GhostBolt_2
+    21300306: GhostBolt_0
+    21300308: Icicle_1
+    21300310: GhostBolt_1
+    21300312: Icicle_0
+    21300314: PhoenixIdle_3
+    21300316: PhoenixIdle_1
+    21300318: PhoenixIdle_0
+    21300320: PhoenixIdle_2
+    21300322: PhoenixAttack_0
+    21300324: PhoenixAttack_1
+    21300326: PhoenixAttack_10
+    21300328: PhoenixIdle_8
+    21300330: PhoenixAttack_5
+    21300332: PhoenixAttack_6
+    21300334: PhoenixAttack_2
+    21300336: RabbitAttack_2
+    21300338: PhoenixAttack_7
+    21300340: RabbitAttack_8
+    21300342: RabbitAttack_1
+    21300344: RabbitAttack_0
+    21300346: RabbitAttack_4
+    21300348: RabbitAttack_3
+    21300350: RabbitAttack_5
+    21300352: PhoenixAttack_3
+    21300354: RabbitAttack_7
+    21300356: RabbitRight_2
+    21300358: RabbitRight_3
+    21300360: RabbitAttack_6
+    21300362: RabbitRight_4
+    21300364: RabbitRight_0
+    21300366: PikemanIdle_7
+    21300368: PhoenixAttack_4
+    21300370: PhoenixAttack_9
+    21300372: PikemanIdle_8
+    21300374: PikemanIdle_1
+    21300376: PikemanIdle_0
+    21300378: PikemanIdle_13
+    21300380: PikemanIdle_6
+    21300382: PikemanIdle_12
+    21300384: PikemanIdle_5
+    21300386: PikemanIdle_2
+    21300388: RabbitRight_1
+    21300390: PikemanIdle_11
+    21300392: PikemanIdle_4
+    21300394: PikemanIdle_3
+    21300396: PikemanIdle_9
+    21300398: PikemanIdle_10
+    21300400: RabbitRight_5
+    21300402: RabbitLeft_2
+    21300404: RabbitLeft_3
+    21300406: PhoenixIdle_6
+    21300408: PhoenixIdle_5
+    21300410: RabbitLeft_4
+    21300412: ManeotaurIdle_0
+    21300414: PhoenixIdle_7
+    21300416: ManeotaurIdle_11
+    21300418: RabbitWalk_7
+    21300420: RabbitWalk_2
+    21300422: PhoenixAttack_8
+    21300424: ManeotaurIdle_10
+    21300426: PhoenixIdle_4
+    21300428: RabbitLeft_0
+    21300430: ManeotaurIdle_9
+    21300432: PikemanAttack_10
+    21300434: RabbitWalk_3
+    21300436: PikemanAttack_5
+    21300438: RabbitWalk_8
+    21300440: PikemanAttack_0
+    21300442: PikemanAttack_1
+    21300444: RabbitWalk_1
+    21300446: RabbitWalk_6
+    21300448: ManeotaurSlam_12
+    21300450: ManeotaurIdle_1
+    21300452: PikemanAttack_2
+    21300454: PikemanAttack_9
+    21300456: ManeotaurSlam_11
+    21300458: PikemanAttack_3
+    21300460: PikemanAttack_4
+    21300462: ManeotaurIdle_8
+    21300464: RabbitWalk_0
+    21300466: RabbitWalk_5
+    21300468: PikemanAttack_8
+    21300470: ManeotaurIdle_7
+    21300472: RabbitWalk_9
+    21300474: RabbitWalk_4
+    21300476: RabbitLeft_1
+    21300478: ManeotaurSlam_10
+    21300480: ManeotaurSlam_9
+    21300482: ManeotaurIdle_6
+    21300484: PikemanAttack_7
+    21300486: RabbitLeft_5
+    21300488: ManeotaurIdle_5
+    21300490: ManeotaurIdle_2
+    21300492: ManeotaurIdle_4
+    21300494: ManeotaurIdle_3
+    21300496: PikemanAttack_6
+    21300498: PhoenixProjection_1
+    21300500: PhoenixProjection_2
+    21300502: PhoenixProjection_0
+    21300504: ManeotaurSlam_8
+    21300506: Pike_10
+    21300508: Pike_9
+    21300510: Pike_8
+    21300512: MinionBirth_9
+    21300514: ManeotaurSlam_4
+    21300516: MinionBirth_8
+    21300518: MinionBirth_7
+    21300520: ManeotaurSlam_1
+    21300522: ManeotaurSlam_2
+    21300524: ManeotaurSlam_5
+    21300526: MinionBirth_6
+    21300528: ManeotaurSlam_3
+    21300530: ManeotaurSlam_0
+    21300532: MinionBirth_4
+    21300534: MinionDeath_8
+    21300536: ManeotaurSlam_13
+    21300538: MinionBirth_0
+    21300540: MinionDeath_10
+    21300542: MinionBirth_5
+    21300544: ManeotaurSlam_14
+    21300546: ManeotaurSlam_6
+    21300548: MinionRun_2
+    21300550: MinionRun_1
+    21300552: MinionRun_6
+    21300554: MinionDeath_2
+    21300556: MinionRun_7
+    21300558: MinionDeath_1
+    21300560: MinionRun_3
+    21300562: MinionRun_8
+    21300564: MinionDeath_9
+    21300566: MinionRun_0
+    21300568: MinionRun_5
+    21300570: MinionBirth_1
+    21300572: MinionDeath_7
+    21300574: MinionRun_9
+    21300576: MinionRun_4
+    21300578: MinionDeath_0
+    21300580: ManeotaurSlam_7
+    21300582: MinionBirth_3
+    21300584: MinionDeath_5
+    21300586: MinionDeath_6
+    21300588: Pike_7
+    21300590: MinionBirth_2
+    21300592: MinionDeath_4
+    21300594: MinionDeath_3
+    21300596: Pike_1
+    21300598: Pike_2
+    21300600: Pike_3
+    21300602: Pike_0
+    21300604: Pike_4
+    21300606: Pike_5
+    21300608: Pike_6
+    21300610: Pike_11
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PhoenixIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 563
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd70f8ac4413a46a8ecba858a4be43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixIdle_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1
+        width: 522
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5105364, y: 0.5420561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7458ceb1680cc4d955cdbd95a601bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixIdle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 517
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5077369, y: 0.486166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf58cfb39db041a4284db8adda2a1137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixIdle_2
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1
+        width: 510
+        height: 206
+      alignment: 9
+      pivot: {x: 0.50686276, y: 0.5970874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0a83572a51ee348be4ba24fc2ec6d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_0
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 217
+        width: 473
+        height: 232
+      alignment: 9
+      pivot: {x: 0.50845665, y: 0.2801724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1378cae5a08644f825ce21ae909af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 498
+        width: 467
+        height: 327
+      alignment: 9
+      pivot: {x: 0.5171306, y: 0.5107034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427cf1525954ced4e9a6ea3099ab6be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_5
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1
+        width: 317
+        height: 456
+      alignment: 9
+      pivot: {x: 0.47791797, y: 0.50986844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea13b9a3bd80914bbdb78ad1fffe779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 498
+        width: 449
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5111359, y: 0.2685185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09241f990781274382a92956927da00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 827
+        width: 447
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5111857, y: 0.5231481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550ed6fbe29f0ad4089db57446ffd494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 209
+        width: 387
+        height: 442
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.5022625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af31d1aefef9fa94b9b21aa11e3092aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1
+        width: 223
+        height: 435
+      alignment: 9
+      pivot: {x: 0.5358744, y: 0.508046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec692aadaadfd0b45be6d376ca5eead0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 716
+        width: 434
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5241935, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b88b34b947b27458aa894652b05522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 459
+        width: 274
+        height: 427
+      alignment: 9
+      pivot: {x: 0.46715328, y: 0.5327869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c46fa9afcaf1b4b9f546ff4340d447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1
+        width: 217
+        height: 426
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48826292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5494f3acb38425c47a23ec9981538c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_8
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 438
+        width: 268
+        height: 407
+      alignment: 9
+      pivot: {x: 0.42537314, y: 0.52334154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72ba9a612acf274ab9b9eca76c3c31b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1045
+        width: 308
+        height: 406
+      alignment: 9
+      pivot: {x: 0.44967532, y: 0.5307882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854fdf69fc94374f8f11ce3b21519a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 653
+        width: 285
+        height: 398
+      alignment: 9
+      pivot: {x: 0.45438597, y: 0.5012563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3a63c362be7e489c4275d84fa59c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_6
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1
+        width: 219
+        height: 397
+      alignment: 9
+      pivot: {x: 0.51826483, y: 0.47858942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a3a368de5c6341ae9d0a5bab1c832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 847
+        width: 283
+        height: 397
+      alignment: 9
+      pivot: {x: 0.49469966, y: 0.48740554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c316a000c8ead479eeda7c4e918e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_8
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 429
+        width: 215
+        height: 392
+      alignment: 9
+      pivot: {x: 0.51860464, y: 0.48469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83844b40017a6ac4590b8e05f7c1d44e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1453
+        width: 215
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5139535, y: 0.48214287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b78d7ebd4fe2954aa237faa656354ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1048
+        width: 271
+        height: 392
+      alignment: 9
+      pivot: {x: 0.501845, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ca8208f40486c4aa53391605e147f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_7
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 653
+        width: 225
+        height: 392
+      alignment: 9
+      pivot: {x: 0.44, y: 0.54591835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e5dd40c7996b04bbcad6a930b6a121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1
+        width: 264
+        height: 391
+      alignment: 9
+      pivot: {x: 0.4810606, y: 0.60997444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d5d551deb5a814b8e6a6d0782b702c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_5
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 847
+        width: 220
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5159091, y: 0.4897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eb54c31246aaf4a965ac3e55693183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_9
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 400
+        width: 216
+        height: 389
+      alignment: 9
+      pivot: {x: 0.5162037, y: 0.48843187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562afd816ec1e8f4b9715b08744ee9b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1453
+        width: 283
+        height: 389
+      alignment: 9
+      pivot: {x: 0.45759717, y: 0.44601542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47b117fba57af640871480c8089c3f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1847
+        width: 388
+        height: 321
+      alignment: 9
+      pivot: {x: 0.49871135, y: 0.30529594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b080c52eb06a65640b41966e2161d07c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_0
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1053
+        width: 268
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.496134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5836febb61368bd44b7cc5b60bfb3262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 888
+        width: 216
+        height: 386
+      alignment: 9
+      pivot: {x: 0.5162037, y: 0.48963732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa62682d1b11fe418933493d5752ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_0
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 1
+        width: 215
+        height: 385
+      alignment: 9
+      pivot: {x: 0.51860464, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4f72cbe12b52b46aae1c5ed59f4bbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_15
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 823
+        width: 215
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5139535, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554e31fccea1e9f4a996b19830f57dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_9
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1239
+        width: 252
+        height: 385
+      alignment: 9
+      pivot: {x: 0.46031746, y: 0.55324674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ce9aa6c927db49ba0cf1ca9a357a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 394
+        width: 215
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5139535, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9966dc1fbb371e347b4b6603e37643f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1844
+        width: 215
+        height: 384
+      alignment: 9
+      pivot: {x: 0.51860464, y: 0.49479166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379499bc552ff864ca7fe4625d2a0f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1047
+        width: 216
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5162037, y: 0.49479166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462a3cb8162564b4c80f02fd2da0f933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_13
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1
+        width: 216
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5162037, y: 0.49608356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cf6598e4af65b489c4bf3460e01998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 388
+        width: 278
+        height: 380
+      alignment: 9
+      pivot: {x: 0.49280575, y: 0.5092105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f0d149b2265b479c602716511e386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_7
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 791
+        width: 303
+        height: 380
+      alignment: 9
+      pivot: {x: 0.42739275, y: 0.5302632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7babb66eb5c18a740ac27cf95a9bbbe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1246
+        width: 215
+        height: 379
+      alignment: 9
+      pivot: {x: 0.51860464, y: 0.49868074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9856d0a785e48b48bb57de7bc805e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1210
+        width: 276
+        height: 375
+      alignment: 9
+      pivot: {x: 0.4673913, y: 0.628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0ec360ea53980469843124bc6d1f8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2170
+        width: 216
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5162037, y: 0.50268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e70fc3ba6c6634a91fe26d208aeed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_3
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1053
+        width: 282
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5212766, y: 0.5161725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e4b07074842754889323e5de165e1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_2
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 1
+        width: 225
+        height: 366
+      alignment: 9
+      pivot: {x: 0.5133333, y: 0.510929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd55080a076c994e9330cdbb762509e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_6
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 770
+        width: 220
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4227273, y: 0.54395604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eba3112f2be9046b9018c9fa3b04db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_9
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 386
+        width: 261
+        height: 364
+      alignment: 9
+      pivot: {x: 0.48659003, y: 0.5425824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b67747b5ef9824b8259e47088e4b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinIdle_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1443
+        width: 234
+        height: 362
+      alignment: 9
+      pivot: {x: 0.52350426, y: 0.519337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ced98e816e0f22428f5a367e955b9ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_0
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1626
+        width: 227
+        height: 359
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.47771588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c29dec2f712b44494b2999a86d5a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1433
+        width: 227
+        height: 358
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.47905028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d5143a85a8f9d498b671437487c375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_9
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1173
+        width: 227
+        height: 358
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48184356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ccbac3dc42eec45890b124cd7dc2c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1587
+        width: 227
+        height: 358
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48184356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1856b8b12a646d544a4eece9b88703f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2230
+        width: 227
+        height: 358
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48184356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f8a3ac08438324a88b2b57d805da90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_8
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1
+        width: 227
+        height: 357
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48319328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbcb864e27c32341b7f6919d74e79bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_2
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 770
+        width: 227
+        height: 357
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48039216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c050e762c0cc4ab5d097ba4b67753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_7
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 369
+        width: 227
+        height: 355
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48591548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcb3eddab188754eaf97b0801d7c95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1807
+        width: 227
+        height: 354
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48728815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fced87069bb6a014594fb03b51c30adc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1627
+        width: 227
+        height: 354
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48446327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5280596eac950f4aa3686c9e9fb8819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_3
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1136
+        width: 227
+        height: 354
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48446327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb34eed8a4278a4da5087b5f7a81a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillIdle_5
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1533
+        width: 227
+        height: 354
+      alignment: 9
+      pivot: {x: 0.51762116, y: 0.48446327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68035f4c2615531449c91d9708a179dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1947
+        width: 286
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66524214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd33d973871fae1439c4c90adfdd17a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2590
+        width: 238
+        height: 340
+      alignment: 9
+      pivot: {x: 0.47268906, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770a2a9d6aebbfc44889440e131444b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_4
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1
+        width: 338
+        height: 260
+      alignment: 9
+      pivot: {x: 0.51035506, y: 0.14615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141b8c2cb0bcd7546a5f7588e3d8c062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_4
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1276
+        width: 219
+        height: 336
+      alignment: 9
+      pivot: {x: 0.47031963, y: 0.48809522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a0e2484e38df6418080e6f90ea3226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_0
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 752
+        width: 234
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5405983, y: 0.48955223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4a8b0265f87304ca257027d4228d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_9
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1129
+        width: 335
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5298507, y: 0.30487806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc0512a17e0a642a0f1b2e01f26e17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_1
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 360
+        width: 228
+        height: 335
+      alignment: 9
+      pivot: {x: 0.52412283, y: 0.48955223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24dbf2f81719db41b5fcde8cffcc452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1793
+        width: 238
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.48955223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdaee48f5cb78a41b1638f8a5ac7586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1627
+        width: 221
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5090498, y: 0.4924925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0b325d52591a64887336a68d356133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_6
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1889
+        width: 221
+        height: 332
+      alignment: 9
+      pivot: {x: 0.51357466, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5620fb3998056f94587f502c5dbddde4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_12
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1492
+        width: 221
+        height: 331
+      alignment: 9
+      pivot: {x: 0.51357466, y: 0.4954683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb01e05b8193544390fba21fcecea51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2230
+        width: 222
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.4969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898ba9e5609670e41ba99f1b45ad5efa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2590
+        width: 222
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.4969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1390f890e63eb6a4287ec53a172b5449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2932
+        width: 222
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d38a6e1ddd6f914bb9484ab4757e362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_4
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 726
+        width: 221
+        height: 327
+      alignment: 9
+      pivot: {x: 0.5090498, y: 0.50152904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8a38fbee7cd84a920652e0d0f8b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_3
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1377
+        width: 207
+        height: 326
+      alignment: 9
+      pivot: {x: 0.5120773, y: 0.49079755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc28abf66f4c564182b20bd5f2aafd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1089
+        width: 221
+        height: 326
+      alignment: 9
+      pivot: {x: 0.51357466, y: 0.5030675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c03851dd81e64380fe49f26fdcde7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_2
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 263
+        width: 193
+        height: 326
+      alignment: 9
+      pivot: {x: 0.49222797, y: 0.4601227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a42f3f75d2e5f246844b64228fbaacb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1983
+        width: 221
+        height: 325
+      alignment: 9
+      pivot: {x: 0.51357466, y: 0.50461537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf7e8d405e2be46930601f8b311be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1627
+        width: 221
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5090498, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2911f7a5f8321e3449e04e4ead0a85be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_1
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1962
+        width: 244
+        height: 323
+      alignment: 9
+      pivot: {x: 0.4385246, y: 0.46749225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e72ad67c209b74f93c89bcf50f89ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixIdle_6
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 2223
+        width: 220
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5113636, y: 0.6025237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631798ed47fe9424db64a780229ae4b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1626
+        width: 173
+        height: 315
+      alignment: 9
+      pivot: {x: 0.52890176, y: 0.4984127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a842d1ebbba3c04bbf98185c8c02e62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixIdle_5
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 1889
+        width: 203
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5147783, y: 0.60634923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988cc04adcb1d9e4fa2d1df8c88c56a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2562
+        width: 191
+        height: 312
+      alignment: 9
+      pivot: {x: 0.47905758, y: 0.4903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e38031bde21ec640ac82c37e64284e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2922
+        width: 174
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5143678, y: 0.49190938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4168615a85374b8c57f55e6a14c28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3262
+        width: 286
+        height: 309
+      alignment: 9
+      pivot: {x: 0.57342654, y: 0.47249192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7380284fe76114c97cf5d658e67b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_0
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 697
+        width: 288
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5763889, y: 0.46278316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5e454ca47c6d349a3e897af45a01fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostRanged_5
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1705
+        width: 241
+        height: 305
+      alignment: 9
+      pivot: {x: 0.42323652, y: 0.45901638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dca0a40b87aec4380126172a2e945f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_0
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1055
+        width: 223
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e401214600b15248a1d1e3dfc64cc6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixIdle_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2163
+        width: 299
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5100334, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e2306fc13cecb438688a78a5674247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1987
+        width: 223
+        height: 297
+      alignment: 9
+      pivot: {x: 0.5, y: 0.513468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44671be599ea20b4f9f6434040a0cf7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2287
+        width: 214
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5303738, y: 0.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addf664fc4568a14482dabc6089b2242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_10
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2223
+        width: 223
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51870745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0949947689b2b9249a100c717df3be74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 459
+        width: 160
+        height: 294
+      alignment: 9
+      pivot: {x: 0.521875, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484793812db81c6469bd443222c04273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixIdle_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2876
+        width: 271
+        height: 293
+      alignment: 9
+      pivot: {x: 0.49261993, y: 0.63139933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf2231096390724a8b38af4a225b8cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3233
+        width: 211
+        height: 293
+      alignment: 9
+      pivot: {x: 0.507109, y: 0.45221844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e67748e6207ebc4c880cae3eea24a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3573
+        width: 223
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5, y: 0.524055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6230c292bad5b49ae912aaecddc426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_0
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 1417
+        width: 203
+        height: 290
+      alignment: 9
+      pivot: {x: 0.53940886, y: 0.4862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b75230b847b995469c4cbd490402ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 2012
+        width: 202
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5371287, y: 0.48965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f781b088b92604f820198152452b29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_5
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 1008
+        width: 196
+        height: 290
+      alignment: 9
+      pivot: {x: 0.44642857, y: 0.537931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aca2206ac17d6489e6919ecabc8d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_12
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1357
+        width: 241
+        height: 289
+      alignment: 9
+      pivot: {x: 0.50829875, y: 0.517301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666d72343cb6e574ea4e7603712abcf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1987
+        width: 239
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4958159, y: 0.52768165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ce5c1b3882d1646ad4c811470cdd63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 2286
+        width: 191
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4947644, y: 0.48442906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc37c308693b04ba27d43d0986cfeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_2
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2310
+        width: 192
+        height: 288
+      alignment: 9
+      pivot: {x: 0.49739584, y: 0.4861111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4de45ed2a8fcc419b52f5461d71906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_11
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2519
+        width: 241
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5165975, y: 0.49479166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd010b3420889f14981fec023bd5d3ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3171
+        width: 191
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5104712, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82421925a6d4a144a1553d962c636ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3528
+        width: 183
+        height: 286
+      alignment: 9
+      pivot: {x: 0.48360655, y: 0.48951048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83196f0ef4492b4eb6c849c99f6d7a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_9
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 1709
+        width: 223
+        height: 286
+      alignment: 9
+      pivot: {x: 0.49775785, y: 0.4597902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a40c81c9ca7bf145a24539fb424ebad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_4
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 2012
+        width: 180
+        height: 285
+      alignment: 9
+      pivot: {x: 0.48055556, y: 0.4877193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c025bffe349def94d9c3c9b5ec0c5814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 2278
+        width: 236
+        height: 284
+      alignment: 9
+      pivot: {x: 0.4894068, y: 0.5369718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c53d77e7ab6bd4999cb07ed08f1fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2562
+        width: 228
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47508895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fad3aa5edee2849b42e277090a66a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_8
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1300
+        width: 191
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5052356, y: 0.50357145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcf96621d79c6c46b472a9df3456de3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_10
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 2304
+        width: 211
+        height: 280
+      alignment: 9
+      pivot: {x: 0.43838862, y: 0.19821429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a77ca2b951e6d40b448c82a070af1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 2577
+        width: 241
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54464287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88eaec8b7972fd4bb2c6534bf1a647d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_10
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3171
+        width: 249
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5160643, y: 0.5361011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4ce6ab25848a04bb2be3fde51e7551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3461
+        width: 252
+        height: 275
+      alignment: 9
+      pivot: {x: 0.49007937, y: 0.5254545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac974fdbbc42c364599a3c97210c71cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3816
+        width: 250
+        height: 275
+      alignment: 9
+      pivot: {x: 0.502, y: 0.55454546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8e438e1c775da4ca20b65aaef9473d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1648
+        width: 170
+        height: 274
+      alignment: 9
+      pivot: {x: 0.5205882, y: 0.4452555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a63e124462a594f9d257d390535481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_7
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1997
+        width: 220
+        height: 273
+      alignment: 9
+      pivot: {x: 0.50454545, y: 0.48168498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb4d8d0ebc68914db60216e4d5947a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 2299
+        width: 173
+        height: 272
+      alignment: 9
+      pivot: {x: 0.517341, y: 0.45588234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c0cc8dbdf81b54994ca61e4c5a79e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_2
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2300
+        width: 241
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5207469, y: 0.20036764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649225fbb7ea19e4b9377b03561eb903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_1
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 2586
+        width: 244
+        height: 272
+      alignment: 9
+      pivot: {x: 0.48565573, y: 0.2077206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c364bf1850992841b8394fd944dc3ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_7
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1582
+        width: 194
+        height: 271
+      alignment: 9
+      pivot: {x: 0.4458763, y: 0.51291513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f874f76deb57ea048b0892a9d2dbf053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2584
+        width: 175
+        height: 271
+      alignment: 9
+      pivot: {x: 0.51714283, y: 0.44280443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac4f5393953b4348805682a2417a53b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3450
+        width: 219
+        height: 270
+      alignment: 9
+      pivot: {x: 0.53196347, y: 0.19814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe6f558778fe3408f840af2ce748c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_0
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1246
+        width: 149
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5167785, y: 0.48501873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58528ea98cc324db576a9f9c385f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3738
+        width: 247
+        height: 267
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.18539326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8158b7ce96bf7d4fa80359f37d188ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_4
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1924
+        width: 256
+        height: 266
+      alignment: 9
+      pivot: {x: 0.47851562, y: 0.20864661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1240f0afa5358246aa5c380482294eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_6
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1433
+        width: 265
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.66558444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1bc370325fe4f4285a305e59d3f786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_5
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 2272
+        width: 248
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5020161, y: 0.5754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f87e2e65fd108b4eae854ffcfaa526a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_1
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2542
+        width: 150
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5133333, y: 0.4905303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c74d455c023ea4aa7721819a0e376a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2564
+        width: 208
+        height: 263
+      alignment: 9
+      pivot: {x: 0.52403843, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbafac20a3047d9428175b763d48f151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostMelee_0
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2859
+        width: 218
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5298165, y: 0.16984732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83525546e1870c548bf8b3e1c31d6946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_2
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 2573
+        width: 247
+        height: 260
+      alignment: 9
+      pivot: {x: 0.49190283, y: 0.58653843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3649e4919dd22a843908d98c080763bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2859
+        width: 179
+        height: 260
+      alignment: 9
+      pivot: {x: 0.51675975, y: 0.4653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9090fa5d05a0b41b6311ab444da58a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3722
+        width: 205
+        height: 260
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.47692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba2b62422f3d3448f80dc4f1d1e9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 1648
+        width: 180
+        height: 260
+      alignment: 9
+      pivot: {x: 0.4861111, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f27f00c498e9664693907ceff87449d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_4
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 2192
+        width: 252
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5019841, y: 0.5888031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b1e8933e289e04898e5294d27aa26c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_22
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 2809
+        width: 259
+        height: 237
+      alignment: 9
+      pivot: {x: 0.4903475, y: 0.52109706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59524bf8301514e47be4c803a6ecb898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2542
+        width: 176
+        height: 259
+      alignment: 9
+      pivot: {x: 0.48011363, y: 0.4092664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae41fd886d9a704fbaa8fe9cdcddd62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurIdle_3
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 3123
+        width: 250
+        height: 258
+      alignment: 9
+      pivot: {x: 0.502, y: 0.59108526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb3049972e8e554f87352c372da0afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_21
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2600
+        width: 257
+        height: 240
+      alignment: 9
+      pivot: {x: 0.49027237, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a6f0f685faed54a87883cea7a6ce82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikemanAttack_6
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 2539
+        width: 192
+        height: 255
+      alignment: 9
+      pivot: {x: 0.40885416, y: 0.54901963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e62ccc29e63140ae22f7fcbb2feb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2584
+        width: 150
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5133333, y: 0.5098425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af3ce8233fb26a47b302ede4ea84f2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 2835
+        width: 183
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4726776, y: 0.5793651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247179f17f829634080f309cde4519b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixProjection_1
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3722
+        width: 252
+        height: 201
+      alignment: 9
+      pivot: {x: 0.49801588, y: 0.55472636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65847c0947b15c5499bc9014b0320fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_3
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 1855
+        width: 154
+        height: 251
+      alignment: 9
+      pivot: {x: 0.4383117, y: 0.50398403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7e94bdd0974c348b187cd642491ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_3
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 2453
+        width: 149
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5167785, y: 0.5199203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06a84312b2f20b41a7d6eb5a6e5dfda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2829
+        width: 200
+        height: 251
+      alignment: 9
+      pivot: {x: 0.4825, y: 0.42231077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895be0f2ed923234b957c7a49fdca9be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixProjection_2
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 2574
+        width: 251
+        height: 213
+      alignment: 9
+      pivot: {x: 0.49601594, y: 0.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc85e71f08453f4e8dd3f67a29f7620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2808
+        width: 150
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5133333, y: 0.522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9362f425711d64eaf7b566ad0cc47c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_4
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2803
+        width: 152
+        height: 249
+      alignment: 9
+      pivot: {x: 0.49671054, y: 0.50803214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c7588704ee3224581b479572f142c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 2857
+        width: 156
+        height: 248
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.52620965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6d61e0cafcf454e8ecda256c8f27f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_18
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 2796
+        width: 246
+        height: 143
+      alignment: 9
+      pivot: {x: 0.49186993, y: 0.76573426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a95a565a8102a47837e62e887f3908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoenixProjection_0
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3383
+        width: 246
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5101626, y: 0.51860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f834afecf55a2844b7f8315b30c5bd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2429
+        width: 246
+        height: 128
+      alignment: 9
+      pivot: {x: 0.49186993, y: 0.76171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efcd053ecb87ce4ca7dc77ac8c18eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_11
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3925
+        width: 245
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.1557971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8c605dfd94f1c43b6628b1b92dc835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2840
+        width: 135
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5148148, y: 0.43237704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4cfe05b3171744384d13fcc7ea2cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_13
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 2108
+        width: 243
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48971194, y: 0.49568966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0725e3a450690314f9c5e1d12f4e8fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_12
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2453
+        width: 242
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.29389313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f6cd973da44cd4e99d05d0b428c8c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 3048
+        width: 213
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5375587, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa68288d414e36e4b9a5e74b37d52e92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_17
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2809
+        width: 237
+        height: 124
+      alignment: 9
+      pivot: {x: 0.48945147, y: 0.891129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be70a731f8211542ab906edf4ac7834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3054
+        width: 171
+        height: 236
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.5169492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd922fa897fbb36448e47b8e936ede25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_23
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 2941
+        width: 235
+        height: 174
+      alignment: 9
+      pivot: {x: 0.48085105, y: 0.2902299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a74b05a9db5e0d4b8ffde28b2dc1b77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_9
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 2706
+        width: 235
+        height: 110
+      alignment: 9
+      pivot: {x: 0.49361703, y: 0.20454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635bbe19736e1c54281b98f49c344298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_14
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 591
+        width: 234
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.7330097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f285399deda92d43a7e7d68e5ccdf74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_9
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 209
+        width: 82
+        height: 233
+      alignment: 9
+      pivot: {x: 0.44512194, y: 0.47424892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d102d2f60e794eaf11ec55e253ba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcykillProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 3600
+        width: 194
+        height: 233
+      alignment: 9
+      pivot: {x: 0.49226806, y: 0.42918456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba87d9bc8d369a4685c6cd39db59fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_8
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 888
+        width: 82
+        height: 233
+      alignment: 9
+      pivot: {x: 0.45731708, y: 0.47424892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff88cd96baf4704c907d29bd47a3ea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_10
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1443
+        width: 82
+        height: 233
+      alignment: 9
+      pivot: {x: 0.44512194, y: 0.47424892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090ced197eeec7947a76039b49cd12df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_11
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1947
+        width: 82
+        height: 233
+      alignment: 9
+      pivot: {x: 0.43292683, y: 0.47424892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f2fc3dda4c2ee46a77af49f30b8ed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_5
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2859
+        width: 162
+        height: 232
+      alignment: 9
+      pivot: {x: 0.47839507, y: 0.47198275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de535e4c4e35ed341b9497c06fca5f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_6
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3107
+        width: 164
+        height: 232
+      alignment: 9
+      pivot: {x: 0.4847561, y: 0.47198275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f626a05b4300642b82ee9398a8dc28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_7
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2860
+        width: 154
+        height: 232
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.47198275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864c9c2b95cc95d45ba5c92d424d5235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_12
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1627
+        width: 82
+        height: 232
+      alignment: 9
+      pivot: {x: 0.45731708, y: 0.47629312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0269570811db4418ebd812ec77e34a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_14
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2310
+        width: 82
+        height: 232
+      alignment: 9
+      pivot: {x: 0.43292683, y: 0.47629312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b0e66964fc3e74b8b7dd933223af8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_16
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2300
+        width: 82
+        height: 232
+      alignment: 9
+      pivot: {x: 0.43292683, y: 0.48060346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a693250b015294d8333517b2d2e1e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_15
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 2304
+        width: 82
+        height: 232
+      alignment: 9
+      pivot: {x: 0.44512194, y: 0.48060346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef04f8a8b3e91164887674baf8a93918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_13
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1855
+        width: 82
+        height: 232
+      alignment: 9
+      pivot: {x: 0.44512194, y: 0.47629312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4cd0b4ee7b83540ac0df6db983fbac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3866
+        width: 166
+        height: 228
+      alignment: 9
+      pivot: {x: 0.51506025, y: 0.4649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dd0219fa9c531438eb8beda933dad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_10
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 3925
+        width: 226
+        height: 130
+      alignment: 9
+      pivot: {x: 0.48672566, y: 0.1423077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8293b80c5d5368438ae6d4c360b196e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_20
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 2226
+        width: 222
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42964825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dc2ed320a2a8643bd147330b5e0a9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostFloating_0
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 1417
+        width: 133
+        height: 219
+      alignment: 9
+      pivot: {x: 0.518797, y: 0.47031963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00917873311f32d4c89fafe3b485544f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostFloating_6
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3060
+        width: 136
+        height: 219
+      alignment: 9
+      pivot: {x: 0.50735295, y: 0.43378997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1fa24f81b0fa042a8b199e258b1093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostFloating_4
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 3117
+        width: 142
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.42201835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d57f997596e5f54ea38296950d3bf6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostFloating_7
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2941
+        width: 131
+        height: 218
+      alignment: 9
+      pivot: {x: 0.48854962, y: 0.4587156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51759a2110810d64589bfe01f66d394d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostFloating_5
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2586
+        width: 137
+        height: 217
+      alignment: 9
+      pivot: {x: 0.4890511, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e378a8886ab342b2479b9e4ff229c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostFloating_3
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 3082
+        width: 136
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4779412, y: 0.4212963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619802b04e589a46b96655714e12a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostFloating_2
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3341
+        width: 137
+        height: 216
+      alignment: 9
+      pivot: {x: 0.48175183, y: 0.43055555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5eaf601506cb74c8864806bc5ea38d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_4
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 3984
+        width: 216
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4861111, y: 0.6553398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e932ab86b63e94883f461d633f813b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_16
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3600
+        width: 215
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.8168317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be338da8fcf15f4a9eaf9d9ab49dc6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostFloating_1
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 3089
+        width: 129
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48062015, y: 0.47196263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f6474917c27dc40b368d1381be18eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_15
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2935
+        width: 211
+        height: 97
+      alignment: 9
+      pivot: {x: 0.48341233, y: 0.8402062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798f6daaf4d42a94cb9549b3d495d4f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3281
+        width: 130
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eb0ed79643a824cba323c81f55e346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_10
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 781
+        width: 51
+        height: 208
+      alignment: 9
+      pivot: {x: 0.49019608, y: 0.47355768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3412b088a46cf849b9f9f22a68ab5a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_7
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 2818
+        width: 162
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.59178746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df1aefe9e18b141b318fa370d88f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_0
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 2805
+        width: 130
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.44417477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2fd294f8d2b2441a135555ad3e9e62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_3
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3093
+        width: 206
+        height: 96
+      alignment: 9
+      pivot: {x: 0.48058254, y: 0.7135417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b383f9c4df1632b41a0f927b693e6495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3573
+        width: 51
+        height: 205
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e4176f62a0fed418ba41adef542d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 3082
+        width: 130
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.44634145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c62df09a093b1438b9a70ba80858be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 243
+        width: 30
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5269608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a21c8b462c6ec8488af98b2d4bc30d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_10
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 2860
+        width: 130
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aadf6f19a213ae42b87fb21ed560c1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_3
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 3094
+        width: 130
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.45343137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec0eca6c0780c49a1d576ff1aaa04c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_2
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3117
+        width: 130
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.44852942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad5fd4b83513542a321760f4eb75b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3492
+        width: 130
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.460199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60663da5cdaf3441af22f146aaf3659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_9
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 3337
+        width: 130
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.46517414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07296748af9d210409fff41e39b607a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 3292
+        width: 130
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.46517414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385f0f891f4d8f34f954b2b8832c09fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_0
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 3027
+        width: 201
+        height: 115
+      alignment: 9
+      pivot: {x: 0.49253732, y: 0.50869566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb2288713a9e64d8474f9c339882e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 451
+        width: 130
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.4675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ea6381e58f5d6468fab28ca820f405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_5
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 2805
+        width: 130
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.46717173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039dda70bbc1dd64caf3dba4a35cfb93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeIdle_6
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 3094
+        width: 130
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b0c8e8ce21392439d80edf6c206e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_19
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 3300
+        width: 189
+        height: 197
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.62690353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654fce292c7afd240badba516a0df0a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_2
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 3161
+        width: 123
+        height: 195
+      alignment: 9
+      pivot: {x: 0.4512195, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dc568c4c1af9e45921ed8640c3a5c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_4
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3695
+        width: 189
+        height: 151
+      alignment: 9
+      pivot: {x: 0.505291, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c774ceff6da140040be7ffbdd6089126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_9
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3191
+        width: 189
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5132275, y: 0.5582192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2ce51b358c7354a96ad750a68f7db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_2
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3492
+        width: 188
+        height: 93
+      alignment: 9
+      pivot: {x: 0.48404256, y: 0.6827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712cd30596dfce54297464bbb70b80bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_7
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 3013
+        width: 187
+        height: 154
+      alignment: 9
+      pivot: {x: 0.48128343, y: 0.5032467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68b58b9b9afb33479427ca339e43dff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_8
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 3305
+        width: 187
+        height: 159
+      alignment: 9
+      pivot: {x: 0.486631, y: 0.5125786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa58dc230994f3d49a1ba13b4ca48f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_1
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 3337
+        width: 186
+        height: 164
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.46036586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb78f4ea6954c304a964430250892e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_2
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3848
+        width: 185
+        height: 158
+      alignment: 9
+      pivot: {x: 0.48918918, y: 0.4778481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef59ddf3b35f2944b6772d41bcbd717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3300
+        width: 173
+        height: 183
+      alignment: 9
+      pivot: {x: 0.47109827, y: 0.4125683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc19cdaf902f3604fa21cbbaee3a0841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_1
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3292
+        width: 182
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48351648, y: 0.615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a087269424e4f45aa3c75d3570d3ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_6
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3540
+        width: 181
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5138122, y: 0.49280575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6526436ac63c71e439362cc7ebb644e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IBall_8
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 3495
+        width: 180
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.49050632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683de99ed494a0d4aa7d436972a2243f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_3
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 3144
+        width: 176
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49147728, y: 0.49025974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b14a7c85df0534dab932106980fd17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_0
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 3117
+        width: 130
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49615383, y: 0.43641618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6dc1b0b8b106045aa9e7cd05d0e35d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_8
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 3358
+        width: 172
+        height: 143
+      alignment: 9
+      pivot: {x: 0.49418604, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169dcfd46de007f4fa3fd36572b31306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_4
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 3848
+        width: 172
+        height: 124
+      alignment: 9
+      pivot: {x: 0.51744187, y: 0.46370968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d24378fa21f20f4f956b5ff1f65efb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_13
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 3540
+        width: 152
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5822368, y: 0.45266274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a0d5a635e51f4e9c0439e15558a2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeFireball_3
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2130
+        width: 84
+        height: 167
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16323adb7e43b984bbf3e1df3c891dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_10
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3339
+        width: 166
+        height: 138
+      alignment: 9
+      pivot: {x: 0.52409637, y: 0.4963768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ee2d8d09a2e0645ba1c58e205a6bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_5
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 3169
+        width: 166
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5120482, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b1a58abf8ba9a42953a0be517c05da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2170
+        width: 166
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2386364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b33ce682026c04d9c3308a7b44f158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_14
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 3300
+        width: 128
+        height: 165
+      alignment: 9
+      pivot: {x: 0.49609375, y: 0.46363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bdb18391689314793fb96279988b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_6
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 2586
+        width: 121
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4752066, y: 0.22392638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41718aac99c031449a2438bd3ae8669f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeFireball_1
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 2859
+        width: 77
+        height: 160
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.490625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3bef098ce903444816468dd75a4812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_2
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 3161
+        width: 159
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5220126, y: 0.56956524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1413cf5d51bb5c1429e8de801aad5313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeFireball_2
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 3466
+        width: 82
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4207317, y: 0.4778481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2d824eb8a4d124bb1daecc447619bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_1
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1515
+        width: 157
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51592356, y: 0.415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928cc419a0bdb21408e41b0384c820f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_6
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3495
+        width: 155
+        height: 102
+      alignment: 9
+      pivot: {x: 0.47096774, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b26558501e39d449deb67aa6d05844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_2
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 755
+        width: 154
+        height: 76
+      alignment: 9
+      pivot: {x: 0.52597404, y: 0.41447368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03f9f6d7c4de784ea98917e73cb20b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_7
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 3655
+        width: 153
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48366013, y: 0.5646552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ed4e84c3cb124b994bfcfce2d7a27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_1
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 3974
+        width: 151
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49668875, y: 0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55033ea72c582745ba9fbe71f8ba52c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_9
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 3681
+        width: 150
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5933333, y: 0.47841728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feca871023b57054db35e2318e3c7ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FiersomeFireball_0
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 3169
+        width: 79
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4620253, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d851a2d87a86dcf4db32cee4f5c1d5e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_3
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3292
+        width: 150
+        height: 114
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.53070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c627a8a7d74eff41bef69f63cfac9f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_8
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 3467
+        width: 150
+        height: 108
+      alignment: 9
+      pivot: {x: 0.48666668, y: 0.5601852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400c03ab30f36cc449ce4820b175e10b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_0
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3499
+        width: 149
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52348995, y: 0.4223301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df1beac484ed9140a2d1ae4776a9626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_5
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 3626
+        width: 149
+        height: 106
+      alignment: 9
+      pivot: {x: 0.46979865, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78dc30fc770eeb48baa11ae79698e62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_1
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1825
+        width: 148
+        height: 47
+      alignment: 9
+      pivot: {x: 0.49324325, y: 1.2234043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e907f0cd9a9ea4f8e4036273e6cd38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_7
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3974
+        width: 146
+        height: 117
+      alignment: 9
+      pivot: {x: 0.48630136, y: 0.508547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8fbb60ee1dabf47a45411c45057545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_4
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 3587
+        width: 141
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.519802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff8b6481c55d8c4eace73b97698d3e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionRun_9
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 3297
+        width: 141
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4964539, y: 0.5048077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046592dfa157d184980d440912c35f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_0
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3408
+        width: 140
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5214286, y: 0.43367347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311bc067a88fab147a602124af8edb0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManeotaurSlam_7
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 2427
+        width: 111
+        height: 139
+      alignment: 9
+      pivot: {x: 0.47297296, y: 0.097122304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a551703a6285347a9c1d97852d3503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 4007
+        width: 138
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5507246, y: 0.80128205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2068dfd91add8a24ba01f444f719bb2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_5
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1987
+        width: 58
+        height: 136
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.4742647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7280b770a83db64e8ad05e6d4d0986c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_6
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3394
+        width: 125
+        height: 95
+      alignment: 9
+      pivot: {x: 0.488, y: 0.52105266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc49ab1ccc14fc41bc7ec1994f6fd98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 827
+        width: 9
+        height: 121
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.8471074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9526b11e8f4b7564396fe4ef31f93e8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionBirth_2
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 3123
+        width: 120
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48333332, y: 1.1847826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a103ff7b981fe4991b87a81c0d9585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostBolt_2
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 653
+        width: 38
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.49166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6930e1a079e98d4fb741b24d2b6d3e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostBolt_0
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1587
+        width: 41
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f70fb9ef72f0e4c9e5e3112f3e9f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_4
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1123
+        width: 91
+        height: 112
+      alignment: 9
+      pivot: {x: 0.63736266, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0191b05775d3784a85d00288b09bd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinionDeath_3
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 2206
+        width: 112
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.35795453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7df98adfdbd2842ad64387d0800276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1678
+        width: 90
+        height: 109
+      alignment: 9
+      pivot: {x: 0.49444443, y: 1.1513761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11485fc1e6046694d937047f2b867b1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_2
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 716
+        width: 11
+        height: 108
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.8842593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7495015bbd28aa44b788649b0401bd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_3
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1136
+        width: 10
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4, y: 0.8842593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab9df89a0a14e4c8f6fc08ce294733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_4
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1626
+        width: 10
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8842593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd38774d146aa4a8e3c1bc3d07f3eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2932
+        width: 11
+        height: 108
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce4c5d764445cf46a75da6b9a474bb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2922
+        width: 11
+        height: 108
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.8842593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a388ebd66b68442aea3359012b6d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_0
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1983
+        width: 10
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0f7775d535e244ad177b236dae854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_5
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 1377
+        width: 11
+        height: 108
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.8842593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f27c6ddc49a7a247a197e0dd6107cb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostBolt_1
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1053
+        width: 41
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f506068e6c40c459fd4f3cd39b0c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icicle_0
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 263
+        width: 70
+        height: 68
+      alignment: 9
+      pivot: {x: 0.50714284, y: 1.742647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c86876bb6998c347b2f00be5d201f01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pike_11
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 823
+        width: 50
+        height: 21
+      alignment: 9
+      pivot: {x: 0.48, y: -4.1190476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d012d88a41c66a4fbb57afb940c3d78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 788971432fbf3f145b3ccddbe41b5f4f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

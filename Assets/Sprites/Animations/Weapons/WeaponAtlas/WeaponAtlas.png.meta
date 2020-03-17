@@ -1,0 +1,3731 @@
+fileFormatVersion: 2
+guid: 5c85e635c37a60b45b7a7b08f5dd09d0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ScorchedEarth_5
+    21300002: ScorchedEarth_7
+    21300004: ScorchedEarth_8
+    21300006: ScorchedEarth_6
+    21300008: ScorchedEarth_9
+    21300010: FirePillar_8
+    21300012: FirePillar_9
+    21300014: ScorchedEarth_11
+    21300016: ScorchedEarth_12
+    21300018: ScorchedEarth_10
+    21300020: SuperSword_2
+    21300022: FirePillar_7
+    21300024: Crossbow_6
+    21300026: FirePillar_6
+    21300028: FirePillar_12
+    21300030: FirePillar_11
+    21300032: FirePillar_10
+    21300034: Crossbow_7
+    21300036: Crossbow_8
+    21300038: SuperSword_4
+    21300040: Crossbow_9
+    21300042: SuperSword_3
+    21300044: Crossbow_4
+    21300046: FirePillar_5
+    21300048: FirePillar_4
+    21300050: ScorchedEarth_4
+    21300052: FireballFall_2
+    21300054: FireballFall_0
+    21300056: Crossbow_5
+    21300058: FireballFall_4
+    21300060: FirePillar_0
+    21300062: FireballFall_3
+    21300064: FirePillar_13
+    21300066: FireballFall_1
+    21300068: FireballFall_10
+    21300070: FirePillar_17
+    21300072: FirePillar_18
+    21300074: PoisonBombExplosion_1
+    21300076: PoisonBombExplosion_4
+    21300078: FirePillar_16
+    21300080: FireballFall_5
+    21300082: PoisonBombExplosion_10
+    21300084: Crossbow_3
+    21300086: PoisonBombExplosion_9
+    21300088: PoisonBombExplosion_11
+    21300090: PoisonBombExplosion_8
+    21300092: FireballFall_9
+    21300094: PoisonBombExplosion_12
+    21300096: PoisonBombExplosion_7
+    21300098: PoisonBombExplosion_5
+    21300100: PoisonBombExplosion_6
+    21300102: PoisonBombExplosion_3
+    21300104: PoisonBombExplosion_2
+    21300106: PoisonPuddle_12
+    21300108: PoisonPuddle_13
+    21300110: PoisonPuddle_11
+    21300112: PoisonPuddle_10
+    21300114: Shotgun_8
+    21300116: Shotgun_6
+    21300118: PoisonBombFall_0
+    21300120: Shotgun_7
+    21300122: PoisonPuddle_9
+    21300124: PoisonPuddle_7
+    21300126: PoisonBombExplosion_0
+    21300128: PoisonPuddle_6
+    21300130: FireballFall_8
+    21300132: PoisonPuddle_8
+    21300134: PoisonPuddle_5
+    21300136: FirePillar_15
+    21300138: PoisonPuddle_14
+    21300140: Shotgun_5
+    21300142: FireballFall_6
+    21300144: SuperSword_1
+    21300146: Crossbow_1
+    21300148: FireballFall_11
+    21300150: PoisonPuddle_4
+    21300152: Rifle_7
+    21300154: FirePillar_1
+    21300156: Rifle_5
+    21300158: Rifle_6
+    21300160: PoisonPuddle_3
+    21300162: SwipeSword_4
+    21300164: FireballFall_7
+    21300166: PoisonPuddleBubbles_1
+    21300168: PoisonBombFall_7
+    21300170: PoisonPuddleBubbles_2
+    21300172: PoisonBombFall_1
+    21300174: PoisonPuddleBubbles_0
+    21300176: PoisonPuddleBubbles_3
+    21300178: SuperSword_5
+    21300180: SuperSword_6
+    21300182: SuperSword_0
+    21300184: SuperSword_10
+    21300186: SuperSword_9
+    21300188: SuperSword_11
+    21300190: SuperSword_7
+    21300192: SuperSword_8
+    21300194: CrossbowBolt_1
+    21300196: SwipeSword_3
+    21300198: CrossbowBolt_0
+    21300200: PoisonBombExplosion_13
+    21300202: CrossbowBolt_2
+    21300204: SwipeSword_2
+    21300206: Shotgun_9
+    21300208: PoisonBombFall_6
+    21300210: FirePillar_14
+    21300212: Rifle_0
+    21300214: Rifle_3
+    21300216: Rifle_12
+    21300218: Rifle_11
+    21300220: Rifle_10
+    21300222: Rifle_9
+    21300224: ScorchedEarth_3
+    21300226: Rifle_2
+    21300228: Rifle_4
+    21300230: Rifle_8
+    21300232: Rifle_1
+    21300234: Shotgun_0
+    21300236: Crossbow_0
+    21300238: FirePillar_3
+    21300240: PoisonBombFall_2
+    21300242: Shotgun_1
+    21300244: SwipeSword_1
+    21300246: Shotgun_3
+    21300248: Shotgun_4
+    21300250: Crossbow_2
+    21300252: Shotgun_2
+    21300254: Shotgun_10
+    21300256: Shotgun_11
+    21300258: Shotgun_12
+    21300260: Shotgun_13
+    21300262: FirePillar_2
+    21300264: SwipeSword_0
+    21300266: SwipeSword_5
+    21300268: SwipeSword_6
+    21300270: SwipeSword_7
+    21300272: SwipeSword_8
+    21300274: SwipeSword_9
+    21300276: SwipeSword_10
+    21300278: PoisonBombFall_5
+    21300280: PoisonPuddle_2
+    21300282: PoisonBombFall_3
+    21300284: CrossbowBolt_3
+    21300286: CrossbowBolt_4
+    21300288: CrossbowBolt_6
+    21300290: ScorchedEarth_2
+    21300292: CrossbowBolt_5
+    21300294: PoisonBombFall_4
+    21300296: Crossbow_10
+    21300298: Crossbow_11
+    21300300: PoisonPuddle_1
+    21300302: ScorchedEarth_1
+    21300304: ScorchedEarth_0
+    21300306: PoisonPuddle_0
+    21300308: Crossbow_12
+    21300310: FireTornado_6
+    21300312: FireTornado_14
+    21300314: FireTornado_8
+    21300316: FireTornado_9
+    21300318: FireTornado_5
+    21300320: FireTornado_15
+    21300322: FireTornado_10
+    21300324: FireTornado_7
+    21300326: FireTornado_11
+    21300328: FireTornado_4
+    21300330: FireTornado_12
+    21300332: FireTornado_3
+    21300334: FireTornado_2
+    21300336: FireTornado_1
+    21300338: FireTornado_13
+    21300340: FireTornado_0
+    21300342: PoisonSludge_16
+    21300344: PoisonSludge_17
+    21300346: PoisonSludge_15
+    21300348: PoisonSludge_14
+    21300350: PoisonSludge_9
+    21300352: PoisonSludge_13
+    21300354: PoisonSludge_7
+    21300356: PoisonSludge_11
+    21300358: PoisonSludge_8
+    21300360: PoisonSludge_10
+    21300362: PoisonSludge_6
+    21300364: PoisonSludge_12
+    21300366: PoisonSludge_5
+    21300368: PoisonSludge_18
+    21300370: PoisonSludge_4
+    21300372: PoisonSludge_3
+    21300374: PoisonSludge_2
+    21300376: PoisonSludge_1
+    21300378: PoisonSludge_0
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScorchedEarth_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 552
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5473251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d56356b5329004f82690754f59a1aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1
+        width: 552
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5473251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dbdef2a68ce3741af437416d490572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 552
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5473251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060b0be775279e46b014572c7d6085d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_5
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1
+        width: 552
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5491803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb26cd1d0b4c8c468ba4e23a482ac39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 491
+        width: 551
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5009074, y: 0.5521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e0cc984d9e77488126a112f36ff00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 246
+        width: 510
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47376543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0cd7f57eae629408c53a1de7957bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_9
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1
+        width: 509
+        height: 321
+      alignment: 9
+      pivot: {x: 0.502947, y: 0.4813084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9176da8c65c383c438fe2957f89e9758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 723
+        width: 508
+        height: 184
+      alignment: 9
+      pivot: {x: 0.492126, y: 0.5163044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6beab27e6bac524dace70e8a55cddcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 572
+        width: 507
+        height: 182
+      alignment: 9
+      pivot: {x: 0.49309665, y: 0.521978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace2c658a8a56ea4fa0860ba0b942a92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_10
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 247
+        width: 507
+        height: 184
+      alignment: 9
+      pivot: {x: 0.49309665, y: 0.5163044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569535870d5e6674ea099847cc1cbbe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_2
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1
+        width: 152
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0.49105367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2637fb4a8a5942642a551407411055a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 909
+        width: 501
+        height: 312
+      alignment: 9
+      pivot: {x: 0.50499004, y: 0.46634614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5744f4a253d18a74aac78268597f0310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 756
+        width: 496
+        height: 311
+      alignment: 9
+      pivot: {x: 0.51008064, y: 0.5289389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b974befaeedf848ae1b27067cbdc4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_12
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 572
+        width: 496
+        height: 276
+      alignment: 9
+      pivot: {x: 0.48790324, y: 0.432971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3f566e55687b443bada909ca456453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_10
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 324
+        width: 495
+        height: 312
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.4823718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baea9d2fb15367d468c3f019549e58f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_11
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1
+        width: 495
+        height: 290
+      alignment: 9
+      pivot: {x: 0.48686868, y: 0.41206896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503011c03f4526743a055cfd7d831aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1223
+        width: 143
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5034965, y: 0.5030675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a016327f02f621b40a21b0af3462d96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1069
+        width: 164
+        height: 488
+      alignment: 9
+      pivot: {x: 0.49390244, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10448e7c4b500654eb7eecc0455c40fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_5
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 850
+        width: 470
+        height: 337
+      alignment: 9
+      pivot: {x: 0.50851065, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d026e0cdb27054b9c641c8c1077a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_4
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 506
+        width: 464
+        height: 335
+      alignment: 9
+      pivot: {x: 0.48706895, y: 0.50895524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d4965dcf745b548b393c2a8fc24412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_4
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 1
+        width: 463
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4924406, y: 0.54375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ded835a804f504fbfac15e2e0de9c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1714
+        width: 460
+        height: 381
+      alignment: 9
+      pivot: {x: 0.5076087, y: 0.52362204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9e70f8115b1440a80dfbd8c61adb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_0
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1189
+        width: 415
+        height: 450
+      alignment: 9
+      pivot: {x: 0.4807229, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1cdb7868e643041bb3464ee3ae3850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_4
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 850
+        width: 420
+        height: 443
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cab1f6368ac1a14792c9b29b665726e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_0
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 293
+        width: 437
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5537757, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c30475c330dad341aa85121a2cf0271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_3
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1
+        width: 419
+        height: 436
+      alignment: 9
+      pivot: {x: 0.49522674, y: 0.5011468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c563cd7e5d6a341987b082bb62c635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2097
+        width: 433
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5588915, y: 0.4453925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2d2965e29afd442b0532a862d05bcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1641
+        width: 412
+        height: 430
+      alignment: 9
+      pivot: {x: 0.47694173, y: 0.51976746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd65c3e552234d459c8b4c89ac261d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_10
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 843
+        width: 386
+        height: 427
+      alignment: 9
+      pivot: {x: 0.47797927, y: 0.47892272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b8fbe1e40f36d4380ebd03cf976798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1295
+        width: 422
+        height: 255
+      alignment: 9
+      pivot: {x: 0.4407583, y: 0.46470588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894ecaf8dd1fca9459c99b4e927ee3e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_18
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 600
+        width: 414
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.38274336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7699e780749844681c2c4f1aa0559a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 433
+        width: 407
+        height: 97
+      alignment: 9
+      pivot: {x: 0.497543, y: 0.58247423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6e87e8ea9811340a87c131d22c853f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 439
+        width: 406
+        height: 294
+      alignment: 9
+      pivot: {x: 0.4963054, y: 0.5255102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09fcd2297aef8a44b282966de2b7830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2097
+        width: 403
+        height: 245
+      alignment: 9
+      pivot: {x: 0.46401986, y: 0.45510203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e75de62d8869e49b1acc149a238cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2392
+        width: 400
+        height: 392
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.49617347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfd23b380e157946b5192e3998d7f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1641
+        width: 399
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17561984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c89f0b1c57eb3479c45543b8694231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 843
+        width: 395
+        height: 234
+      alignment: 9
+      pivot: {x: 0.50253165, y: 0.17307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1464f1ba96adc42b5247cf7a680f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1272
+        width: 391
+        height: 221
+      alignment: 9
+      pivot: {x: 0.48209718, y: 0.09728507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e842e8e2672624cb0d3e2c5816e372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 735
+        width: 390
+        height: 314
+      alignment: 9
+      pivot: {x: 0.49871793, y: 0.40286624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909c3c3ceb76cb54f82ffe17fc811cbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 439
+        width: 390
+        height: 217
+      alignment: 9
+      pivot: {x: 0.48846152, y: 0.108294934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d883efd253c79cf4c81c0c8f42f365f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_9
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2073
+        width: 390
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5089744, y: 0.43447295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a098063f6b90a274599c8b785532d1b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2786
+        width: 386
+        height: 305
+      alignment: 9
+      pivot: {x: 0.49870467, y: 0.39836067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe1d42ff9f6c1469ab909fb7168246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1552
+        width: 382
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5091623, y: 0.3779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d427eb9cc0602a4e82b83b54134003d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1079
+        width: 379
+        height: 299
+      alignment: 9
+      pivot: {x: 0.49208444, y: 0.33946487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5b85cfa994c964a9cd5bbe358618bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1051
+        width: 378
+        height: 251
+      alignment: 9
+      pivot: {x: 0.49867725, y: 0.45219123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b133c6e68419f419dd9f95df882e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 163
+        width: 376
+        height: 47
+      alignment: 9
+      pivot: {x: 0.54388297, y: 0.67021275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3dd4ac78cf3c046b5df1674d33fa5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_17
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 638
+        width: 373
+        height: 157
+      alignment: 9
+      pivot: {x: 0.49463806, y: 0.95859873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57c32b4a5032c46a28ecb823a19755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_16
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 735
+        width: 373
+        height: 144
+      alignment: 9
+      pivot: {x: 0.49463806, y: 1.0451388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c793954b097774983f8f3c8b663da3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_15
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 1
+        width: 362
+        height: 151
+      alignment: 9
+      pivot: {x: 0.49585634, y: 0.9701987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08ae5477c34cd84b8f766231b4b6d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1223
+        width: 266
+        height: 357
+      alignment: 9
+      pivot: {x: 0.52, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2532de363bd94cb498f9370b8ffaf81b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2344
+        width: 357
+        height: 130
+      alignment: 9
+      pivot: {x: 0.49439776, y: 1.1115384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3542d69b0c2ea347801a7ccd53216a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_6
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1885
+        width: 251
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c537e67dccd0f40409b7860e9a16007c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2786
+        width: 226
+        height: 353
+      alignment: 9
+      pivot: {x: 0.68, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4ddef5d4381e3469d1632345da509d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1495
+        width: 299
+        height: 353
+      alignment: 9
+      pivot: {x: 0.51, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e4378c4490922419e50458e0914eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombFall_0
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1380
+        width: 314
+        height: 352
+      alignment: 9
+      pivot: {x: 0.477707, y: 0.4275568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5492bc4090eeb5a4189212f2f819e10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_7
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1304
+        width: 274
+        height: 352
+      alignment: 9
+      pivot: {x: 0.51, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d8aed645ca96a489df0dc5e2248275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_8
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1051
+        width: 351
+        height: 307
+      alignment: 9
+      pivot: {x: 0.48290598, y: 0.4218241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec32a844d463bd4097ba4169e866e03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 658
+        width: 351
+        height: 133
+      alignment: 9
+      pivot: {x: 0.46866098, y: 0.8834587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676b4ec44a68060448b88438fe7cebe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_6
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 154
+        width: 348
+        height: 155
+      alignment: 9
+      pivot: {x: 0.49568966, y: 0.91290325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e595010f058eb4e43adca2e211bc7559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_7
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2426
+        width: 348
+        height: 133
+      alignment: 9
+      pivot: {x: 0.49568966, y: 1.0639098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31742d2a6f8a8b5459b6f1167d29be44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_9
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1885
+        width: 348
+        height: 147
+      alignment: 9
+      pivot: {x: 0.49568966, y: 0.96258503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2475327b4951e4a982bff8cff00c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_10
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2244
+        width: 348
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49568966, y: 1.132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d7e6e5aff3a7643804a9ca7cd21bb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3093
+        width: 348
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49568966, y: 1.132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3185d91e77e9474ca80a01a15df044f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_12
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1295
+        width: 348
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49568966, y: 1.132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21c1497e435962418f60add7f515a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_13
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1734
+        width: 348
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49568966, y: 1.132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b170014a1e10a49b99bf4fc67f6ca8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_8
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1658
+        width: 348
+        height: 137
+      alignment: 9
+      pivot: {x: 0.49568966, y: 1.0328467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af36198fb0e4f4889a41a264a4a2e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_15
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 881
+        width: 340
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5235294, y: 0.46008402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aff49b4fa4dd84790aef31b35f1ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_5
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 311
+        width: 339
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49115044, y: 1.1150794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e790fd2042d79429a2bcee2139d197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2561
+        width: 219
+        height: 338
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac7191b96e5a04ab8cf770707244c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_18
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2426
+        width: 338
+        height: 109
+      alignment: 9
+      pivot: {x: 0.48964497, y: 0.77522933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7b4728bb2ab8446b0b0449ce4f7cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3141
+        width: 330
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5348485, y: 0.4985119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1103260cc165343ab3584a4dfea654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1223
+        width: 83
+        height: 332
+      alignment: 9
+      pivot: {x: 0.48192772, y: 0.46385542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea9a21fb429f4345bd7c3a089b9d308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_11
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1850
+        width: 242
+        height: 321
+      alignment: 9
+      pivot: {x: 0.44421488, y: 0.7087228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99ced608da5a664784db323fc75a793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_7
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 1304
+        width: 70
+        height: 319
+      alignment: 9
+      pivot: {x: 0.32, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a0e9d49b8a903429c2c183dce32d8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_4
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1734
+        width: 169
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7837e46dd212f049a6ec63e61054594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_1
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 793
+        width: 318
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5345912, y: 0.5037175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e7ecd5af7e2cf4783d53910a749176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_5
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 1121
+        width: 71
+        height: 316
+      alignment: 9
+      pivot: {x: 0.6056338, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3b28d5b2332e042b8563dd7e24141a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_4
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1495
+        width: 316
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4857595, y: 1.0333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ba90f7b01b5cd4eb443404325472fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_6
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2561
+        width: 263
+        height: 315
+      alignment: 9
+      pivot: {x: 0.53, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478c31c3a3aee4846ba32341299ad565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2476
+        width: 108
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7136b2ee71e0c564dbfb3e102e89fab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_3
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 212
+        width: 293
+        height: 141
+      alignment: 9
+      pivot: {x: 0.46928328, y: 0.96099293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1632515bdf88c624ea41505a7404ce83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_4
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2371
+        width: 231
+        height: 289
+      alignment: 9
+      pivot: {x: 0.6857176, y: 0.04212144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83d47e0e23e02e45a3272837358601e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballFall_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3220
+        width: 286
+        height: 245
+      alignment: 9
+      pivot: {x: 0.48776224, y: 0.41836736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8471bb30b224fdf4488d8d84f2937358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3479
+        width: 184
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86943ca2b34f68d41b3dba2a5c273a62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombFall_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2901
+        width: 280
+        height: 264
+      alignment: 9
+      pivot: {x: 0.43928573, y: 0.51325756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aecbcccf6178242ba09b3d58757161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombFall_1
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 1625
+        width: 232
+        height: 275
+      alignment: 9
+      pivot: {x: 0.3577586, y: 0.45636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ad66e452ae97b4e8a591f5384b6f22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_11
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1850
+        width: 82
+        height: 264
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.5265151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d685d4369d985348a32116183358349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_10
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1734
+        width: 83
+        height: 264
+      alignment: 9
+      pivot: {x: 0.48192772, y: 0.5265151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8acc25241ea1fa4881d79654ebc30a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_5
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 1064
+        width: 84
+        height: 264
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd18e19e7f15a28458e73bcce2bfb5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2476
+        width: 83
+        height: 264
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14697e3d4e149c544853518ca5192888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_7
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2537
+        width: 84
+        height: 264
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb829e6033a7d324caf0f2f1c034a774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_8
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2173
+        width: 84
+        height: 264
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf513d0339dab774f9da4a8832932935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3467
+        width: 83
+        height: 264
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.5265151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc5832d7f4795499455a18b46fc4eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSword_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3766
+        width: 84
+        height: 264
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883a9f3e56d4d442be35b4d631efe14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowBolt_1
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1380
+        width: 39
+        height: 263
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d4baec3a96fe742a680ae7015ac4f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_3
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2878
+        width: 259
+        height: 241
+      alignment: 9
+      pivot: {x: 0.72376245, y: 0.08408771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6288b359b32660a489f2033d53cb3022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3167
+        width: 202
+        height: 257
+      alignment: 9
+      pivot: {x: 0.65, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781788a270465c24787007220cdd0e2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowBolt_0
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 154
+        width: 33
+        height: 256
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0.5136719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983aece34f55df54ebdd2cf99efcc5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 828
+        width: 255
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5509804, y: 0.10386474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131f8dd3fbd2e4a49a43151dda73b2f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowBolt_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3220
+        width: 39
+        height: 246
+      alignment: 9
+      pivot: {x: 0.41025642, y: 0.5345529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a793ce916e284eb785fb3ceefdbb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_2
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 1360
+        width: 239
+        height: 238
+      alignment: 9
+      pivot: {x: 0.6512303, y: 0.10233698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b040fb7837dbcf4ba7a1dabd43ab8ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_6
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1861
+        width: 227
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49788135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c54d8d1a6668444f9e12e3cc5fdc356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_9
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1797
+        width: 215
+        height: 233
+      alignment: 9
+      pivot: {x: 0.42, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fe83e1058cdcf4c8db467844b0b74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_14
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 1121
+        width: 227
+        height: 232
+      alignment: 9
+      pivot: {x: 0.48237884, y: 0.48060346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d947d63c501e744e8348048a1d3b7e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombFall_6
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 439
+        width: 232
+        height: 216
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0.5162037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d035510ea313c44b319a3610cf998a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_14
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 1064
+        width: 227
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5726872, y: 0.4944134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4af61c4c82acf4cb9ead3ba4b895b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_9
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2662
+        width: 227
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5088106, y: 0.4953917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065b05713a0785b4dba575de02816e64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_8
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2116
+        width: 227
+        height: 219
+      alignment: 9
+      pivot: {x: 0.48678413, y: 0.49086758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3968aefa4456e2f4a9cfc0e07508b65f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_3
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2439
+        width: 68
+        height: 222
+      alignment: 9
+      pivot: {x: 0.6764706, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20046d35ba6bb884594a4486dc69839d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2901
+        width: 48
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.6644144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997f02562c4c50148b3bb4ce3e3df86d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3479
+        width: 48
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1716a9388eb184c88293a8adc4cbd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1069
+        width: 221
+        height: 97
+      alignment: 9
+      pivot: {x: 0.479638, y: 0.46391752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee56256eec4e84d8763d10437e698d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3733
+        width: 79
+        height: 221
+      alignment: 9
+      pivot: {x: 0.70886075, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f6d1b081a39aa4e88d60eec9b0350b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_10
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3121
+        width: 49
+        height: 221
+      alignment: 9
+      pivot: {x: 0.58, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d75e5d8f4fc8e4c9d2f1bc4a2fb981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3426
+        width: 48
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939fbbc2d23e80740b1537aa5f692657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_8
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1360
+        width: 49
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5510204, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae74ead6d0fec634c8ff7392dbfe662a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_11
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 1600
+        width: 48
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d753b849140ccd479945505a522a952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_2
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2055
+        width: 84
+        height: 221
+      alignment: 9
+      pivot: {x: 0.7380952, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29138910107a050428fec6331a9bb137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rifle_1
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1902
+        width: 59
+        height: 220
+      alignment: 9
+      pivot: {x: 0.6101695, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d5bcc2e7ed1694f83123c1ed25bdc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_5
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 1330
+        width: 219
+        height: 194
+      alignment: 9
+      pivot: {x: 0.48173517, y: 0.5902062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fda66824d9169541a30b35b14f2fe2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_15
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2881
+        width: 213
+        height: 218
+      alignment: 9
+      pivot: {x: 0.4765258, y: 0.49311927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80fcec46e68bfe4cbf8932199d19246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_7
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2337
+        width: 217
+        height: 202
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.5569307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdebf93fb7fd7eb4092587b05d82092d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_10
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2662
+        width: 217
+        height: 201
+      alignment: 9
+      pivot: {x: 0.47235024, y: 0.5597015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8428839ecc0a187479e57d2d4a2ac57a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3703
+        width: 176
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f350bfd54cd394ab5acf9830242252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_0
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 3344
+        width: 145
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69836b91b0123041b1d53c9309acfb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_3
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1583
+        width: 216
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4675926, y: 0.80277777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9462db62063f7443bf46ad54b277685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_11
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 1823
+        width: 215
+        height: 194
+      alignment: 9
+      pivot: {x: 0.45348838, y: 0.48195878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d851ce073a209b342a43153dac93cf8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombFall_2
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 2278
+        width: 190
+        height: 214
+      alignment: 9
+      pivot: {x: 0.51578945, y: 0.5724299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c2101189befe24193cf25d7fdacbf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_1
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 293
+        width: 167
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3cb65d78ee37840ba1c36523ddc067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_1
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2032
+        width: 145
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ba41327d381c646b288966008f1883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1582
+        width: 203
+        height: 116
+      alignment: 9
+      pivot: {x: 0.52955663, y: 1.012931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fa933660a2b3645b45b215d6eaa9a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_1
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 1355
+        width: 203
+        height: 195
+      alignment: 9
+      pivot: {x: 0.750623, y: 0.23762582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0852d04d559ae0946a9cdc6e86e5cdc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_12
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2881
+        width: 178
+        height: 199
+      alignment: 9
+      pivot: {x: 0.36235955, y: 0.4396985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0152236c7425504e8fe943a8781b775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_3
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1861
+        width: 145
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e186b5cff1a80c14990134b8eebf8021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_4
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 3101
+        width: 165
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633017c5fce21624a9b80797558b6fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_3
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2541
+        width: 162
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ac573afacd2441af5ae3f52fad6b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_2
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 1245
+        width: 145
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b01eacf51bbe428f001ea8ad9b29a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3479
+        width: 162
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aff167fc89381548aaa48ecdaf58f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_3
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1189
+        width: 185
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5162162, y: 1.2771739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b9ace885d9e946826e87ccd495b5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_10
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3562
+        width: 176
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c780e3a825054ea1f6c2681923197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_12
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1902
+        width: 176
+        height: 184
+      alignment: 9
+      pivot: {x: 0.4630682, y: 0.8777174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3497ecd51edf1ce459ea47bb24e66dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_11
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1765
+        width: 176
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1dcb4ac90e3934783c06c112700194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun_13
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 2494
+        width: 175
+        height: 184
+      alignment: 9
+      pivot: {x: 0.4542857, y: 0.8777174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f6daa1b2d1c1a48a1de440476de024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar_2
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2055
+        width: 183
+        height: 179
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.8072626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8b77a0fb06ba94284a9e91bfdaa452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_1
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1552
+        width: 175
+        height: 85
+      alignment: 9
+      pivot: {x: 0.54, y: 1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df343cb8c94d5ae4c9ccdc100e7b9d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_2
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2537
+        width: 175
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5285714, y: 1.0990566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956d5d282ad9d884a8a39225efba6024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_13
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 638
+        width: 126
+        height: 172
+      alignment: 9
+      pivot: {x: 0.31349206, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f86fbe110cd7458157b3469776d3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_6
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 532
+        width: 170
+        height: 37
+      alignment: 9
+      pivot: {x: 1.0019438, y: 0.43294877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172ddaef838cb3e40ae367bf1523ae50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_5
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 797
+        width: 170
+        height: 38
+      alignment: 9
+      pivot: {x: 0.8193833, y: 0.39396265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b109bfb13fa84a64688a93feed7bd78e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_0
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 324
+        width: 37
+        height: 170
+      alignment: 9
+      pivot: {x: 0.46446103, y: 0.20679896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fb6db4829169e4eb6a050106b31d31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1559
+        width: 170
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8140144, y: 0.3938879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bce5303b8e0304a92623de3b945a4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_9
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 658
+        width: 169
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5118343, y: 3.7763157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a99cfca963bf5a4692e4e5e492a9452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_10
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1422
+        width: 169
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5118343, y: 3.7763157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e6504b27e6d043b8a60b7e32f6166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwipeSword_8
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2034
+        width: 169
+        height: 37
+      alignment: 9
+      pivot: {x: 0.82038724, y: 0.31844845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ac556f8b515a54db20103d5a1ae8f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombFall_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3922
+        width: 168
+        height: 148
+      alignment: 9
+      pivot: {x: 0.42261904, y: 0.5912162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da80485f5a28674cb9c2dab83f2be59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_11
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 2124
+        width: 145
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff3d05bedb4e5c418d56bbaa54032be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_10
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 1526
+        width: 145
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce383355c1d6d914883cc263edcf39b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbow_12
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2865
+        width: 145
+        height: 163
+      alignment: 9
+      pivot: {x: 0.50344825, y: 1.1196319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebdb2f9295ac5c4eba4a1b7fe097cfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_2
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 1439
+        width: 160
+        height: 116
+      alignment: 9
+      pivot: {x: 0.434375, y: 0.8491379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44f151a18beea447927b635316693c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombFall_3
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 3082
+        width: 138
+        height: 148
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.48986486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d415e011dc79ff4887f6c72d84f487e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireTornado_0
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1632
+        width: 131
+        height: 98
+      alignment: 9
+      pivot: {x: 0.34732825, y: -0.15816326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a1e81d10db29c4e95950f5638b33cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowBolt_3
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 433
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02734375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc7b069a80344408a8414c8492ffe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowBolt_4
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2173
+        width: 113
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5132743, y: -0.08677686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f86a10c83ba40c41b04153927de6515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowBolt_6
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 212
+        width: 106
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5849057, y: -0.6392405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3006b1bd67bff48be37e34c637d858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_2
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 355
+        width: 105
+        height: 78
+      alignment: 9
+      pivot: {x: 0.41904762, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66280333b22e8a4bb31739853062037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossbowBolt_5
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1069
+        width: 104
+        height: 87
+      alignment: 9
+      pivot: {x: 0.58653843, y: -0.4770115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cea102ee372d864c816bfcf8545808d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBombFall_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2476
+        width: 96
+        height: 78
+      alignment: 9
+      pivot: {x: 0.29166666, y: 0.53205127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c333a783ac2d6904a8ad5a3c74d0dc2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_1
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 881
+        width: 62
+        height: 78
+      alignment: 9
+      pivot: {x: 0.41129032, y: 0.775641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a537da2880b81db4ea7de4ed9b291dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_1
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 247
+        width: 51
+        height: 67
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.25373134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98918b825296429439be08fa796b0bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScorchedEarth_0
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 756
+        width: 18
+        height: 40
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d177230af17446f40b555ab46bade29c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonSludge_0
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 723
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.29545453, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd15c8bf74cc0694cb80a82d95b14a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d6ada402d97ef3648bf749c3d0976cb8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

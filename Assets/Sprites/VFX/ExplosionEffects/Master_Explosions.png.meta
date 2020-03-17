@@ -1,0 +1,4763 @@
+fileFormatVersion: 2
+guid: 517c45c6c65b7dd45a0ac3ca1b9dc492
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Puff_03_8x5-40_0
+    21300002: Kaboom_06_8x5-40_31
+    21300004: Kaboom_06_8x5-40_32
+    21300006: Kaboom_06_8x5-40_33
+    21300008: Kaboom_06_8x5-40_34
+    21300010: Kaboom_06_8x5-40_35
+    21300012: Kaboom_06_8x5-40_36
+    21300014: Kaboom_06_8x5-40_37
+    21300016: Kaboom_06_8x5-40_38
+    21300018: Kaboom_06_8x5-40_39
+    21300020: Kaboom_05_8x5-40_0
+    21300022: Kaboom_05_8x5-40_1
+    21300024: Kaboom_05_8x5-40_2
+    21300026: Kaboom_05_8x5-40_3
+    21300028: Kaboom_05_8x5-40_4
+    21300030: Kaboom_05_8x5-40_5
+    21300032: Kaboom_05_8x5-40_6
+    21300034: Kaboom_05_8x5-40_7
+    21300036: Kaboom_05_8x5-40_8
+    21300038: Kaboom_05_8x5-40_9
+    21300040: Kaboom_05_8x5-40_10
+    21300042: Kaboom_05_8x5-40_11
+    21300044: Kaboom_05_8x5-40_12
+    21300046: Kaboom_05_8x5-40_13
+    21300048: Kaboom_06_8x5-40_30
+    21300050: Kaboom_06_8x5-40_29
+    21300052: Kaboom_06_8x5-40_28
+    21300054: Kaboom_06_8x5-40_27
+    21300056: Kaboom_06_8x5-40_3
+    21300058: Kaboom_06_8x5-40_4
+    21300060: Kaboom_06_8x5-40_5
+    21300062: Kaboom_06_8x5-40_6
+    21300064: Kaboom_06_8x5-40_7
+    21300066: Kaboom_06_8x5-40_8
+    21300068: Kaboom_06_8x5-40_9
+    21300070: Kaboom_06_8x5-40_10
+    21300072: Kaboom_06_8x5-40_11
+    21300074: Kaboom_06_8x5-40_12
+    21300076: Kaboom_06_8x5-40_13
+    21300078: Kaboom_05_8x5-40_14
+    21300080: Kaboom_06_8x5-40_14
+    21300082: Kaboom_06_8x5-40_16
+    21300084: Kaboom_06_8x5-40_17
+    21300086: Kaboom_06_8x5-40_18
+    21300088: Kaboom_06_8x5-40_19
+    21300090: Kaboom_06_8x5-40_20
+    21300092: Kaboom_06_8x5-40_21
+    21300094: Kaboom_06_8x5-40_22
+    21300096: Kaboom_06_8x5-40_23
+    21300098: Kaboom_06_8x5-40_24
+    21300100: Kaboom_06_8x5-40_25
+    21300102: Kaboom_06_8x5-40_26
+    21300104: Kaboom_06_8x5-40_15
+    21300106: Kaboom_05_8x5-40_15
+    21300108: Kaboom_05_8x5-40_16
+    21300110: Kaboom_05_8x5-40_17
+    21300112: Puff_02_8x5-40_10
+    21300114: Puff_02_8x5-40_11
+    21300116: Puff_02_8x5-40_12
+    21300118: Puff_02_8x5-40_13
+    21300120: Puff_02_8x5-40_14
+    21300122: Puff_02_8x5-40_15
+    21300124: Puff_02_8x5-40_16
+    21300126: Puff_02_8x5-40_17
+    21300128: Puff_02_8x5-40_18
+    21300130: Puff_02_8x5-40_19
+    21300132: Puff_02_8x5-40_20
+    21300134: Puff_02_8x5-40_9
+    21300136: Puff_02_8x5-40_21
+    21300138: Puff_02_8x5-40_23
+    21300140: Puff_02_8x5-40_24
+    21300142: Puff_02_8x5-40_25
+    21300144: Puff_02_8x5-40_26
+    21300146: Puff_02_8x5-40_27
+    21300148: Puff_02_8x5-40_28
+    21300150: Puff_02_8x5-40_29
+    21300152: Puff_02_8x5-40_30
+    21300154: Puff_02_8x5-40_31
+    21300156: Puff_02_8x5-40_32
+    21300158: Puff_02_8x5-40_33
+    21300160: Puff_02_8x5-40_22
+    21300162: Kaboom_06_8x5-40_2
+    21300164: Puff_02_8x5-40_8
+    21300166: Puff_02_8x5-40_6
+    21300168: Kaboom_05_8x5-40_18
+    21300170: Kaboom_05_8x5-40_19
+    21300172: Kaboom_05_8x5-40_20
+    21300174: Kaboom_05_8x5-40_21
+    21300176: Kaboom_05_8x5-40_22
+    21300178: Kaboom_05_8x5-40_23
+    21300180: Kaboom_05_8x5-40_24
+    21300182: Kaboom_05_8x5-40_25
+    21300184: Kaboom_05_8x5-40_26
+    21300186: Kaboom_05_8x5-40_27
+    21300188: Kaboom_05_8x5-40_28
+    21300190: Puff_02_8x5-40_7
+    21300192: Kaboom_05_8x5-40_29
+    21300194: Kaboom_05_8x5-40_31
+    21300196: Kaboom_05_8x5-40_32
+    21300198: Kaboom_05_8x5-40_33
+    21300200: Kaboom_05_8x5-40_34
+    21300202: Kaboom_05_8x5-40_35
+    21300204: Puff_02_8x5-40_0
+    21300206: Puff_02_8x5-40_1
+    21300208: Puff_02_8x5-40_2
+    21300210: Puff_02_8x5-40_3
+    21300212: Puff_02_8x5-40_4
+    21300214: Puff_02_8x5-40_5
+    21300216: Kaboom_05_8x5-40_30
+    21300218: Puff_02_8x5-40_34
+    21300220: Kaboom_06_8x5-40_1
+    21300222: Kaboom_04_8x5-40_36
+    21300224: Puff_03_8x5-40_29
+    21300226: Puff_03_8x5-40_30
+    21300228: Puff_03_8x5-40_31
+    21300230: Puff_03_8x5-40_32
+    21300232: Puff_03_8x5-40_33
+    21300234: Puff_03_8x5-40_34
+    21300236: Puff_03_8x5-40_35
+    21300238: Puff_01_8x5-40_0
+    21300240: Puff_01_8x5-40_1
+    21300242: Puff_01_8x5-40_2
+    21300244: Puff_01_8x5-40_3
+    21300246: Puff_01_8x5-40_4
+    21300248: Puff_01_8x5-40_5
+    21300250: Puff_01_8x5-40_6
+    21300252: Puff_01_8x5-40_7
+    21300254: Puff_01_8x5-40_8
+    21300256: Puff_01_8x5-40_9
+    21300258: Puff_01_8x5-40_10
+    21300260: Puff_01_8x5-40_11
+    21300262: Puff_01_8x5-40_12
+    21300264: Puff_01_8x5-40_13
+    21300266: Puff_01_8x5-40_14
+    21300268: Puff_01_8x5-40_15
+    21300270: Puff_03_8x5-40_28
+    21300272: Puff_03_8x5-40_27
+    21300274: Puff_03_8x5-40_26
+    21300276: Puff_03_8x5-40_25
+    21300278: Puff_03_8x5-40_1
+    21300280: Puff_03_8x5-40_2
+    21300282: Puff_03_8x5-40_3
+    21300284: Puff_03_8x5-40_4
+    21300286: Puff_03_8x5-40_5
+    21300288: Puff_03_8x5-40_6
+    21300290: Puff_03_8x5-40_7
+    21300292: Puff_03_8x5-40_8
+    21300294: Puff_03_8x5-40_9
+    21300296: Puff_03_8x5-40_10
+    21300298: Puff_03_8x5-40_11
+    21300300: Puff_01_8x5-40_16
+    21300302: Puff_03_8x5-40_12
+    21300304: Puff_03_8x5-40_14
+    21300306: Puff_03_8x5-40_15
+    21300308: Puff_03_8x5-40_16
+    21300310: Puff_03_8x5-40_17
+    21300312: Puff_03_8x5-40_18
+    21300314: Puff_03_8x5-40_19
+    21300316: Puff_03_8x5-40_20
+    21300318: Puff_03_8x5-40_21
+    21300320: Puff_03_8x5-40_22
+    21300322: Puff_03_8x5-40_23
+    21300324: Puff_03_8x5-40_24
+    21300326: Puff_03_8x5-40_13
+    21300328: Puff_01_8x5-40_17
+    21300330: Puff_01_8x5-40_18
+    21300332: Puff_01_8x5-40_19
+    21300334: Kaboom_04_8x5-40_12
+    21300336: Kaboom_04_8x5-40_13
+    21300338: Kaboom_04_8x5-40_14
+    21300340: Kaboom_04_8x5-40_15
+    21300342: Kaboom_04_8x5-40_16
+    21300344: Kaboom_04_8x5-40_17
+    21300346: Kaboom_04_8x5-40_18
+    21300348: Kaboom_04_8x5-40_19
+    21300350: Kaboom_04_8x5-40_20
+    21300352: Kaboom_04_8x5-40_21
+    21300354: Kaboom_04_8x5-40_22
+    21300356: Kaboom_04_8x5-40_11
+    21300358: Kaboom_04_8x5-40_23
+    21300360: Kaboom_04_8x5-40_25
+    21300362: Kaboom_04_8x5-40_26
+    21300364: Kaboom_04_8x5-40_27
+    21300366: Kaboom_04_8x5-40_28
+    21300368: Kaboom_04_8x5-40_29
+    21300370: Kaboom_04_8x5-40_30
+    21300372: Kaboom_04_8x5-40_31
+    21300374: Kaboom_04_8x5-40_32
+    21300376: Kaboom_04_8x5-40_33
+    21300378: Kaboom_04_8x5-40_34
+    21300380: Kaboom_04_8x5-40_35
+    21300382: Kaboom_04_8x5-40_24
+    21300384: Kaboom_06_8x5-40_0
+    21300386: Kaboom_04_8x5-40_10
+    21300388: Kaboom_04_8x5-40_8
+    21300390: Puff_01_8x5-40_20
+    21300392: Puff_01_8x5-40_21
+    21300394: Puff_01_8x5-40_22
+    21300396: Puff_01_8x5-40_23
+    21300398: Puff_01_8x5-40_24
+    21300400: Puff_01_8x5-40_25
+    21300402: Puff_01_8x5-40_26
+    21300404: Puff_01_8x5-40_27
+    21300406: Puff_01_8x5-40_28
+    21300408: Puff_01_8x5-40_29
+    21300410: Puff_01_8x5-40_30
+    21300412: Kaboom_04_8x5-40_9
+    21300414: Puff_01_8x5-40_31
+    21300416: Puff_01_8x5-40_33
+    21300418: Puff_01_8x5-40_34
+    21300420: Puff_01_8x5-40_35
+    21300422: Kaboom_04_8x5-40_0
+    21300424: Kaboom_04_8x5-40_1
+    21300426: Kaboom_04_8x5-40_2
+    21300428: Kaboom_04_8x5-40_3
+    21300430: Kaboom_04_8x5-40_4
+    21300432: Kaboom_04_8x5-40_5
+    21300434: Kaboom_04_8x5-40_6
+    21300436: Kaboom_04_8x5-40_7
+    21300438: Puff_01_8x5-40_32
+    21300440: Puff_02_8x5-40_35
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 4
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7088709efa9e0e6498aab816ac6dbe73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee52fb844647d499e6a99c1ed1961c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b000f26361d724948a0bdd0b5c9d2ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d486e0af8567e954093ebf84de0c0621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fc080d9bc76494f8848e2442a38684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551b15fa0b914d94a9fb752716f646be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0acbb28178e8a4cbcd1de673c56bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f523da8aeb4f4741b478272431d8aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdeb39dd41357341bc949a4d8f01797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afad8aed9ffb48c479b221ef081d62ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e68ddc7ca737043b73cf50c48af138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8bbc50607a0b941a7116783a924d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b4a84e8441ec4fa3df4a9924a71e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b6065f9da4d9146903bbafe490d5db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd898a7ecb00054282d009d207714cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af03f49378ef0241989c91160425898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0ef3c6613720648b9c18021d8228a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf94213c8f23a043bd9785df8d7d863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c18e7e80bdf854d91ee01d23dcfe0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_9
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffedf5488921614a84dfd75164e97bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_10
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0abfa9cb4b31041b014d9106a98984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_11
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6532472d7f091144ad135093d0b8937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_12
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70dc8e78dcf886439db70bebd0a4539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_13
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3adad60f6982e458a93cd37780a1f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_30
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af3492c54091b45bc84967f1f00037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_29
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd1a661f3c0e294db928d52f954ede7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_28
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c373af3ba521cf847bafe3a4fe461541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_27
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb6d0d856da1b346bd1b013ad8fb700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_3
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad33150b52ba44b4db79ed1095f31938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9154956108cccb044b0622cf77f4996c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1096c19d5313d45af938bf5c7233d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9678f4cc4075246aa5e988967ee4f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce160f1c3150f1418bc49f5d1fd3248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e197406ef7a1dcd4f8499a13b0ae33fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898577d1baf02314bb476523d2e9853c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d928817ca6c4246a44033e05030e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0cc573dc35d0744927f6c76f6f6c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e7fd3854f788e4784cad00f02150dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddea0e4a3e595649a6dfb009b4226ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c058b891b78747aab6daa514c897e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e88ba90bbbaae4282cd5327a0961b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc345fa98c30e940be9bc189693690d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c21d62015e224e88ad41440dcd02d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defbfe5f5e6eab3469607f8fcc9f3759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_19
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2a5b764f9b28b42a26037f9f1b5f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_20
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84b37ecf6327614e8be857b27392bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_21
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6f4c0c6fd0154482b84f236fc537d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_22
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8282d5006ec69fe43b6934772289557b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_23
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50705af68a91c824bbeb1ba45c504e91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_24
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95ba7e84c1fac84e8270eaacee97eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_25
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecae6a4d2343e942ab1e1a93508b83b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_26
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d6804ec4b9268468bc6fa5801d82f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_15
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6717ecf8f13244b918955749a906a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_15
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2cbd0f45d6a2d42a188ef9f9420e40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_16
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be07840e6cfd1044ab146312f8729a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_17
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 257
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e7ff20eccb5a94f9c0f17a35f9eff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9708760e882e2449686afb682c6f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3b011f0bf653140b315adbdedab745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f18afcdd1de84b841078f0eab1bc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cba770d84157b746ad3b3e75954b7aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_14
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59b7863c512794681638cd4462cdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8d090eee4b0dd47ae98f0ef4ce7aa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe5a02fc5bdbf743a9f2da674721652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_17
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471d3e92ecc626a4bb7bd9c6d10199ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06067f0c83612074ea1ca1b1b489156d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348fab21c2dca34dab732cdcfa7d157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee7174776c555b48870fa1bf0c7ada0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c39cfb501c25c24bbcf234f6e39043e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_21
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5d6cb0342726a4bbde113132d9ad5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_23
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb75a107eecf004ba49b007e167634c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_24
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9336c10c0efad248b91a5e1f477b5c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_25
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda26e9d01a00874dbbf301d7919a382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_26
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164de357bd0605f4389bc9828471f614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_27
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033834cd45694f147866d86d537fbf4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_28
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147eafdb989dc1b4e960e77479f62ab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_29
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b68bcb2ebfe043a8aa9d53550f1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_30
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f81ce47ee5e684c9e4d10654d23d93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_31
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c087f2225e11d844b7ef101c2d3399b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_32
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e1dc0280212643b0450ebd0b35f5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_33
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7813e72f51d92b04582b6eaf8a6a45d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_22
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 514
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafb6e91782002440b5a9fefc59c52b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_2
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20452d46f004e340aeaef45d7ac172b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cdc1a34c817b5468ac801f7dc37f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_6
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796b4cdca5d74e64692f5173b73d8e98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_18
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6496f642979bdc4086845213dfb06bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_19
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6350933aafb55741954d6012437cb89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_20
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86185bbaaa140c948b299334faed83ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c2ca188336acd4b80454322f55f58e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_22
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08fd30512a9e1468e693e6ce4ecd07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_23
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73769d1ecec6ff44aa6a297137cbcae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a400b09df94b9438af9563063c042e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_25
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd57acdef1e24d4eb0df85fc04d09f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_26
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c54d119135f9b64e9cf859dc66ec096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_27
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a96b9f0208f614fac4ba01aa14396d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_28
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a3dfc82a11b1c4792523f26d84de4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_7
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0595b1a6b282756488ae96f8b00683cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_29
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fb1f5aa57c6aa4488e1682c3b24c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_31
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d45fb1fd1135d945be8a0342f5f4d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_32
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f93107f6aef7742ba7fc221fa50f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_33
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5438a571b0df29d439ce9698ad9e6d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_34
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169117e8b8d6700479d886bde3e7721d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_35
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a3e3af95dfa04448b4bc8f12e758e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_0
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fceb5cacc3ae9d42be99cc17b2536d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_1
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 771
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3740b7bcfae98b64ea94236c71641f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9163bb9b4f763b14ba7d2a4f808c6a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_3
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525428f973d9a99429bda1056831625a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381ed2880b10cae40bb5822fba304a3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_5
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62002e040fd2b74c85a8406bbd2db17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_05_8x5-40_30
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec427a82aeefd7468cad456091b912e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_34
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d815c8b604d1e408d72223ead01ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_1
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c8989376549c4386ca22dd091831c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_36
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b73d8d3e79f14ea666e38e5c37fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_29
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c507c9cb6b5028445a535f16418ec735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_30
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4c6c892995ade4fbd6ea8a6075dec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_31
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ad2ff09d7342944b3a8a040f0f96b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_32
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7185c44a7f32b524c82f8116a43e36ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_33
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38343d77a2e7144b884f145dd395979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_34
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6b7f7e18134e042bde6e0531326717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_35
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dafdc8278f78a14a850aa5ae84eea97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_0
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6826b5edec2e442930b7a9fbfa4f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_1
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e332a7125229b469c7b4285cf1389a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_2
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc376e37d01a7428aa85c04d9b8de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_3
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ac714c6ea9cea48b9c434aca794e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_4
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0519fa15065fbc54d82480140d7a38b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_5
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4c9275600d98d4d9f1d17fc89e39bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_6
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a257ec6432b44d881f725a7aae4a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_7
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e8e7ee00e88ff479e5ddc73c1f0654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_8
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4575a1bfbeb3e8429618263ce14efd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_9
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197d84f3afcfd414683dc7b0396bb3bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_10
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb13d28668ca9544a7dfac24066a965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_11
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7fe6ff79661a54ebf15f9e5bb9e3f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_12
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd13b2d7672fb4db6c6c299dcebb21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_13
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795dbcb15e849ef4ea8bff4c7e68f5e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_14
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed074424b35fdac488a05a72708b20df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_15
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe63aa1cff29fe4a845d7bbf950291d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_28
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd81ddcf7840eb947a42ff1ef26da459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_27
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067c0a3e524a3134b8b5aab57ee291fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_26
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04071e6882d3e345a5df327ff485ccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_25
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34d56e9390ffc74385fd62af73de7ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_1
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efc359779c4a9c41bd1c30faa8a4621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_2
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20cf54bad945f041a264b4551d15f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_3
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1da34d90c1f3fe45b232a8b27518b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_4
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf8415200ff90a47adcdebe8012ad05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_5
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 1285
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa56b50be04b7e48bd2f7e57d0ca763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_6
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7224e419defda904488c3e0e4e680b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_7
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b7b3a0076166d48bc410f4c1127f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_8
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c565e6423cccd7842a80ad16acdcfec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_9
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2227af06647b14ca0ce18a87728f9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_10
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a240d919674b4d8e774e6517f275f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_11
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b94f085cbbe28343a9671fdd8d23ccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_16
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f3c1f6646c3e74db5550da008c709a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_12
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459aa8cbafad9f54f91dccabc40b8af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_14
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b79b9407f8b78f42ad3d5d63366377e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_15
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23976a378f6e824f99c77047201cb1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_16
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4449a66e377951047a723b51ecc1bd2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_17
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d918efbf5ea9314cb4303433ccd5dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_18
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb5e1c416c6cd24db2808cc13bb973b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_19
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f681327ed8b8414a833024f0d75fdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_20
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1ee6368b98a6b478bca7aac130c99b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_21
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908fbb22584105245b8f978877a68832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_22
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 1542
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f76b672faebd245b6043e84264dc85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_23
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67439fce2cf522e4a9327b48cf560f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_24
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6886e19da57964a8ba75d645894cc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_03_8x5-40_13
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace6807bfcbb6d24e91055c6d1c5fba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_17
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9294cdc9a811d03428bf9f79d7758081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_18
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54389168f05824d4aa8396755e7fa759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_19
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f65e535ec34e8d40aeba8ee8737ae52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_12
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aad217ee8993342a54ef71e9c7e676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_13
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d255fff246e0d34bab245650127e1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_14
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7677e586ae26f4e4c97302f237e54498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_15
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eee3cd9f6299a443bd1d1157884ffa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_16
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2b627b16b4774da970ec0db1ae45f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_17
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c94d0451d380a941b7e56d6656588e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_18
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1753841083f37d428be980ed3572426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_19
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feecc3f264c75744e822c8fc6b833f0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_20
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 1799
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4855a7a6dd18dd443b0ab9630b97f4a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_21
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd1bcc3aadf61e44ac26e5f5031a32a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_22
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab8d298b787a442b65c6d6562bbb68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_11
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e39495ba64cd43a96ad308af943e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_23
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee74caffc026c4e919d5f75b1c01cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_25
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a696d3aebc9e241ac89e52055a21e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_26
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c808585c9dd16943aa896377b7c7f93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_27
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd50d7c5ad7fa5e4fac8d0060859dd53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_28
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaff5145b6b912245bae7afa222b5cf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_29
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438f2410198fd224c8f6f3fa46f94966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_30
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c942b1f5b17b54ba39c8511f1ab959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_31
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d910c11d14e99ac46815e2e05af716cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_32
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ee9fdc90c47344695d7097be89766d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_33
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 2056
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddfdb7e94a92c440bfe42c35f9450d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_34
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469c23c4e6a31404f972154863ddd71a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_35
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b9e5946a4820c45bde8bffaebc6730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_24
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326d10444ec42b74db3ce952619b0fd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_06_8x5-40_0
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69d07373283cb64497e1b28e59703db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_10
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19d4a28ff647b4eafa83153c2cf01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_8
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09adadd41694ed458d5e38033b802e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_20
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0530813738bb2884f90745f8180ce705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_21
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3c7d2c3b9876549be5c329d858a5be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_22
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cafa2c83d591749a327489c3956d26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_23
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca4952fe9bf7b43990761eee7f6965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_24
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 2313
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28765a1c01bec59428292ba792e6d294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_25
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496e3161fe7fbb94c8169927e8e4b4df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_26
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec920643e0ac69488e9987931e9c07e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_27
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6af27ea4f7b0d646a7abcf91c8416ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_28
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d14626635249f44d8f76bf7b1aaaffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_29
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08731bd1e73298d4eaee08aeb4dd176c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_30
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6267c0c3434ddd048815d7fa8b509d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_9
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87042687d57839c4dbb030f98fdaf729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_31
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0f45234eac0e342ad3c121b11a5e9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_33
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 2570
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57824a6d51abc1d438602b4f6230ffbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_34
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa888bd897914334bbcc558882d8d576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_35
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ea85209b1bd784390ccf964d947cfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_0
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626f59c8a4b041b4e83a605ef59288f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_1
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a6b9683e54ee43b34806436d83f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_2
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef88497ec41a38c4dbc3a81349f167c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_3
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e9da9b6fac5d74d8903eedcad50053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_4
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 2827
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953c53786a4f43049bd2e8a1d0573af6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_5
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3db291919d4c44980dfca81a9e6cbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_6
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 3341
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241928e2b0dc4974f95c858e646f7fa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaboom_04_8x5-40_7
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 3598
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c5db2fe14c31248a6764857d35f74f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_01_8x5-40_32
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fa60e2960e23d43824695f3e359899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff_02_8x5-40_35
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 3084
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc6d788a4a168d439017bca2742e9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
